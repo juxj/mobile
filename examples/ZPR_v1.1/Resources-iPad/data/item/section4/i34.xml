@@ -1,0 +1,8 @@
+<?xml version="1.0"?>
+<animation name="i34.xml" source="i34.png" type="frame-by-frame_animation">
+  <img name="i34" savedname="i34.png" fx="0" fy="0" fw="64" fh="64" row="1" cnt="1" duration="33">
+    <framelist>
+      <frameset fsid="0" fs="0" fc="1" type="1" />
+    </framelist>
+  </img>
+</animation>

@@ -1,0 +1,9 @@
+<?xml version="1.0"?>
+<animation name="z0.xml" source="z0.png" type="frame-by-frame_animation">
+  <img name="z0" savedname="z0.png" fw="60" fh="44" row="8" cnt="64" at="1" foot="6">
+    <framelist>
+      <frameset fsid="0" name="z0_a0_" fs="0"  fc="29" duration="33" type="0" at="1" />
+      <frameset fsid="1" name="z0_a1_" fs="40" fc="24" duration="33" type="1" at="1" />
+    </framelist>
+  </img>
+</animation>

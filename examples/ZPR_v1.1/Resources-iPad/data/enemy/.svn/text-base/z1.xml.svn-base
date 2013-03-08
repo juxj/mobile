@@ -1,0 +1,10 @@
+<?xml version="1.0"?>
+<animation name="z1.xml" source="z1.png" type="frame-by-frame_animation">
+  <img name="z1" savedname="z1.png" fw="120" fh="146" row="8" cnt="24" at="1" foot="5" duration="66">
+    <framelist>
+      <frameset fsid="0" name="z1_a0_" fs="0" fc="1" duration="66" type="0" at="1" />
+      <frameset fsid="1" name="z1_a1_" fs="1" fc="16" duration="66" type="1" at="1" />
+      <frameset fsid="2" name="z1_a2_" fs="17" fc="7" duration="66" type="1" at="1" />
+    </framelist>
+  </img>
+</animation>

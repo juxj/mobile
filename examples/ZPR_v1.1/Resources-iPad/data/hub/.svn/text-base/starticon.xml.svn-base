@@ -1,0 +1,18 @@
+<?xml version="1.0"?>
+<animation name="starticon.xml" source="starticon.png" type="images">
+	<img regx="0" regy="0" name="starticon" savedname="starticon.png" w="480" h="320"/>
+	<framelist>
+		<frame regx="0" regy="0" name="starticon0" w="150" h="91" x="7" y="7" />
+		<frame regx="0" regy="0" name="starticon1" w="144" h="84" x="15" y="127" />
+		<frame regx="0" regy="0" name="starticon2" w="135" h="81" x="18" y="223" />
+		<frame regx="0" regy="0" name="starticon3" w="89" h="48" x="192" y="78" />
+		<frame regx="0" regy="0" name="starticon4" w="89" h="48" x="192" y="26" />
+		<frame regx="0" regy="0" name="starticon5" w="104" h="58" x="193" y="215" />
+		<frame regx="0" regy="0" name="starticon6" w="104" h="58" x="192" y="143" />
+		<frame regx="0" regy="0" name="starticon7" w="96" h="62" x="320" y="141" />
+		<frame regx="0" regy="0" name="starticon8" w="96" h="62" x="320" y="212" />
+		<frame regx="0" regy="0" name="starticon9" w="150" h="57" x="311" y="6" />
+		<frame regx="0" regy="0" name="starticon10" w="149" h="61" x="311" y="66" />
+		
+	</framelist>
+</animation>

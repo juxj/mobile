@@ -1,0 +1,53 @@
+K 25
+svn:wc:ra_dav:version-url
+V 47
+/svn/iphone/!svn/ver/4611/trunk/ZPR_v1.1/Server
+END
+version_c.xml
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svn/iphone/!svn/ver/4555/trunk/ZPR_v1.1/Server/version_c.xml
+END
+server_res_v11.sh
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/iphone/!svn/ver/4536/trunk/ZPR_v1.1/Server/server_res_v11.sh
+END
+server_res_v11a.sh
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/iphone/!svn/ver/4164/trunk/ZPR_v1.1/Server/server_res_v11a.sh
+END
+server_res_v11b.sh
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/iphone/!svn/ver/4307/trunk/ZPR_v1.1/Server/server_res_v11b.sh
+END
+server_res_v11c.sh
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/iphone/!svn/ver/4307/trunk/ZPR_v1.1/Server/server_res_v11c.sh
+END
+version.xml
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svn/iphone/!svn/ver/4555/trunk/ZPR_v1.1/Server/version.xml
+END
+version_a.xml
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svn/iphone/!svn/ver/4555/trunk/ZPR_v1.1/Server/version_a.xml
+END
+version_b.xml
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svn/iphone/!svn/ver/4555/trunk/ZPR_v1.1/Server/version_b.xml
+END

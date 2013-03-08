@@ -1,0 +1,576 @@
+// !$*UTF8*$!
+{
+	1D6058900D05DD3D006BFB54 /* ZPR */ = {
+		activeExec = 0;
+		executables = (
+			A5630FFD1457F734002DB5C8 /* ZPR */,
+		);
+	};
+	29B97313FDCFA39411CA2CEA /* Project object */ = {
+		activeBuildConfigurationName = Debug;
+		activeExecutable = A5630FFD1457F734002DB5C8 /* ZPR */;
+		activeTarget = 1D6058900D05DD3D006BFB54 /* ZPR */;
+		breakpoints = (
+		);
+		codeSenseManager = A56314181457F737002DB5C8 /* Code sense */;
+		executables = (
+			A5630FFD1457F734002DB5C8 /* ZPR */,
+			A5630FFE1457F734002DB5C8 /* ZPR-iPad */,
+			A55DCC4514753CA1005F09CC /* ZPR Free */,
+			A55DCC4614753CA1005F09CC /* ZPR-iPad Free */,
+			A52C1A74148791A800877D6A /* ZPR test version */,
+			A52C1A75148791A800877D6A /* ZPR-iPad test version */,
+		);
+		perUserDictionary = {
+			PBXConfiguration.PBXFileTableDataSource3.PBXFileTableDataSource = {
+				PBXFileTableDataSourceColumnSortingDirectionKey = "-1";
+				PBXFileTableDataSourceColumnSortingKey = PBXFileDataSource_Filename_ColumnID;
+				PBXFileTableDataSourceColumnWidthsKey = (
+					20,
+					1079,
+					20,
+					48,
+					43,
+					43,
+					20,
+				);
+				PBXFileTableDataSourceColumnsKey = (
+					PBXFileDataSource_FiletypeID,
+					PBXFileDataSource_Filename_ColumnID,
+					PBXFileDataSource_Built_ColumnID,
+					PBXFileDataSource_ObjectSize_ColumnID,
+					PBXFileDataSource_Errors_ColumnID,
+					PBXFileDataSource_Warnings_ColumnID,
+					PBXFileDataSource_Target_ColumnID,
+				);
+			};
+			PBXPerProjectTemplateStateSaveDate = 344428968;
+			PBXWorkspaceStateSaveDate = 344428968;
+		};
+		perUserProjectItems = {
+			A51A499414754A2300D3824C /* PBXTextBookmark */ = A51A499414754A2300D3824C /* PBXTextBookmark */;
+			A51A499514754A2300D3824C /* PBXTextBookmark */ = A51A499514754A2300D3824C /* PBXTextBookmark */;
+			A51A499614754A2300D3824C /* PBXTextBookmark */ = A51A499614754A2300D3824C /* PBXTextBookmark */;
+			A51A49BE14754C7000D3824C /* PBXTextBookmark */ = A51A49BE14754C7000D3824C /* PBXTextBookmark */;
+			A51A49F714754F0A00D3824C /* PBXTextBookmark */ = A51A49F714754F0A00D3824C /* PBXTextBookmark */;
+			A51A4A0414754FE200D3824C /* PBXTextBookmark */ = A51A4A0414754FE200D3824C /* PBXTextBookmark */;
+			A51A4A0514754FE200D3824C /* PBXTextBookmark */ = A51A4A0514754FE200D3824C /* PBXTextBookmark */;
+			A51A4A0714754FE200D3824C /* PBXTextBookmark */ = A51A4A0714754FE200D3824C /* PBXTextBookmark */;
+			A51A4A11147551CA00D3824C /* PBXTextBookmark */ = A51A4A11147551CA00D3824C /* PBXTextBookmark */;
+			A52C1A7B1487922300877D6A /* PBXTextBookmark */ = A52C1A7B1487922300877D6A /* PBXTextBookmark */;
+			A55DD077147545AB005F09CC /* PBXTextBookmark */ = A55DD077147545AB005F09CC /* PBXTextBookmark */;
+			A55DD078147545AB005F09CC /* PBXTextBookmark */ = A55DD078147545AB005F09CC /* PBXTextBookmark */;
+			A55DD07D147545AB005F09CC /* PBXTextBookmark */ = A55DD07D147545AB005F09CC /* PBXTextBookmark */;
+			A55DD07E147545AB005F09CC /* PBXTextBookmark */ = A55DD07E147545AB005F09CC /* PBXTextBookmark */;
+			A55DD089147548AF005F09CC /* PBXTextBookmark */ = A55DD089147548AF005F09CC /* PBXTextBookmark */;
+			A5FFA6BD1475D17A00E41E1A /* PBXTextBookmark */ = A5FFA6BD1475D17A00E41E1A /* PBXTextBookmark */;
+		};
+		sourceControlManager = A56314171457F737002DB5C8 /* Source Control */;
+		userBuildSettings = {
+		};
+	};
+	4A1D3CF313D810AF00D6FCEE /* GameHouse.h */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {1230, 723}}";
+			sepNavSelRange = "{841, 13}";
+			sepNavVisRange = "{0, 903}";
+		};
+	};
+	4A1D3CF613D810AF00D6FCEE /* GameLevel.mm */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {1257, 5577}}";
+			sepNavSelRange = "{3748, 0}";
+			sepNavVisRange = "{3298, 1211}";
+		};
+	};
+	652A419814062D2600538F1D /* GameAchieve.mm */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {985, 13286}}";
+			sepNavSelRange = "{18977, 8}";
+			sepNavVisRange = "{20463, 1398}";
+		};
+	};
+	654D5F911442D537008D09E7 /* ZPR-iPad */ = {
+		activeExec = 0;
+		executables = (
+			A5630FFE1457F734002DB5C8 /* ZPR-iPad */,
+		);
+	};
+	A51A231B1431B3F900D98B7D /* GameSuc.mm */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {1173, 11349}}";
+			sepNavSelRange = "{12290, 11}";
+			sepNavVisRange = "{11573, 1479}";
+		};
+	};
+	A51A499414754A2300D3824C /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = A51A231B1431B3F900D98B7D /* GameSuc.mm */;
+		name = "GameSuc.mm: 493";
+		rLen = 0;
+		rLoc = 10616;
+		rType = 0;
+		vrLen = 792;
+		vrLoc = 20317;
+	};
+	A51A499514754A2300D3824C /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 4A1D3CF313D810AF00D6FCEE /* GameHouse.h */;
+		name = "GameHouse.h: 37";
+		rLen = 13;
+		rLoc = 841;
+		rType = 0;
+		vrLen = 903;
+		vrLoc = 0;
+	};
+	A51A499614754A2300D3824C /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = A5684D4F145A9D9F003BF875 /* GameBedroom.h */;
+		name = "GameBedroom.h: 1";
+		rLen = 0;
+		rLoc = 0;
+		rType = 0;
+		vrLen = 450;
+		vrLoc = 0;
+	};
+	A51A49BE14754C7000D3824C /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = FBF5069A1472A0DC00C25413 /* ZPR_Prefix.pch */;
+		name = "ZPR_Prefix.pch: 74";
+		rLen = 0;
+		rLoc = 1934;
+		rType = 0;
+		vrLen = 1073;
+		vrLoc = 2538;
+	};
+	A51A49F714754F0A00D3824C /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 652A419814062D2600538F1D /* GameAchieve.mm */;
+		name = "GameAchieve.mm: 868";
+		rLen = 8;
+		rLoc = 18977;
+		rType = 0;
+		vrLen = 1398;
+		vrLoc = 20463;
+	};
+	A51A4A0414754FE200D3824C /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = A5684D40145A4D54003BF875 /* GameLevelTwelve.mm */;
+		name = "GameLevelTwelve.mm: 170";
+		rLen = 8;
+		rLoc = 5033;
+		rType = 0;
+		vrLen = 2032;
+		vrLoc = 3027;
+	};
+	A51A4A0514754FE200D3824C /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = A5684D3F145A4D54003BF875 /* GameLevelTwelve.h */;
+		name = "GameLevelTwelve.h: 1";
+		rLen = 0;
+		rLoc = 0;
+		rType = 0;
+		vrLen = 665;
+		vrLoc = 0;
+	};
+	A51A4A0714754FE200D3824C /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = A5E5039D140E46D500DBB1C8 /* GameHouse.mm */;
+		name = "GameHouse.mm: 463";
+		rLen = 0;
+		rLoc = 14468;
+		rType = 0;
+		vrLen = 1685;
+		vrLoc = 14236;
+	};
+	A51A4A11147551CA00D3824C /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = A5684D50145A9D9F003BF875 /* GameBedroom.mm */;
+		name = "GameBedroom.mm: 172";
+		rLen = 0;
+		rLoc = 4764;
+		rType = 0;
+		vrLen = 1547;
+		vrLoc = 4068;
+	};
+	A52C1A74148791A800877D6A /* ZPR test version */ = {
+		isa = PBXExecutable;
+		activeArgIndices = (
+		);
+		argumentStrings = (
+		);
+		autoAttachOnCrash = 1;
+		breakpointsEnabled = 0;
+		configStateDict = {
+		};
+		customDataFormattersEnabled = 1;
+		dataTipCustomDataFormattersEnabled = 1;
+		dataTipShowTypeColumn = 1;
+		dataTipSortType = 0;
+		debuggerPlugin = GDBDebugging;
+		disassemblyDisplayState = 0;
+		enableDebugStr = 1;
+		environmentEntries = (
+		);
+		executableSystemSymbolLevel = 0;
+		executableUserSymbolLevel = 0;
+		libgmallocEnabled = 0;
+		name = "ZPR test version";
+		showTypeColumn = 0;
+		sourceDirectories = (
+		);
+	};
+	A52C1A75148791A800877D6A /* ZPR-iPad test version */ = {
+		isa = PBXExecutable;
+		activeArgIndices = (
+		);
+		argumentStrings = (
+		);
+		autoAttachOnCrash = 1;
+		breakpointsEnabled = 0;
+		configStateDict = {
+		};
+		customDataFormattersEnabled = 1;
+		dataTipCustomDataFormattersEnabled = 1;
+		dataTipShowTypeColumn = 1;
+		dataTipSortType = 0;
+		debuggerPlugin = GDBDebugging;
+		disassemblyDisplayState = 0;
+		enableDebugStr = 1;
+		environmentEntries = (
+		);
+		executableSystemSymbolLevel = 0;
+		executableUserSymbolLevel = 0;
+		libgmallocEnabled = 0;
+		name = "ZPR-iPad test version";
+		showTypeColumn = 0;
+		sourceDirectories = (
+		);
+	};
+	A52C1A7B1487922300877D6A /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 4A1D3CF613D810AF00D6FCEE /* GameLevel.mm */;
+		name = "GameLevel.mm: 156";
+		rLen = 0;
+		rLoc = 3748;
+		rType = 0;
+		vrLen = 1211;
+		vrLoc = 3298;
+	};
+	A55DCC4514753CA1005F09CC /* ZPR Free */ = {
+		isa = PBXExecutable;
+		activeArgIndices = (
+		);
+		argumentStrings = (
+		);
+		autoAttachOnCrash = 1;
+		breakpointsEnabled = 0;
+		configStateDict = {
+		};
+		customDataFormattersEnabled = 1;
+		dataTipCustomDataFormattersEnabled = 1;
+		dataTipShowTypeColumn = 1;
+		dataTipSortType = 0;
+		debuggerPlugin = GDBDebugging;
+		disassemblyDisplayState = 0;
+		enableDebugStr = 1;
+		environmentEntries = (
+		);
+		executableSystemSymbolLevel = 0;
+		executableUserSymbolLevel = 0;
+		libgmallocEnabled = 0;
+		name = "ZPR Free";
+		showTypeColumn = 0;
+		sourceDirectories = (
+		);
+	};
+	A55DCC4614753CA1005F09CC /* ZPR-iPad Free */ = {
+		isa = PBXExecutable;
+		activeArgIndices = (
+		);
+		argumentStrings = (
+		);
+		autoAttachOnCrash = 1;
+		breakpointsEnabled = 0;
+		configStateDict = {
+		};
+		customDataFormattersEnabled = 1;
+		dataTipCustomDataFormattersEnabled = 1;
+		dataTipShowTypeColumn = 1;
+		dataTipSortType = 0;
+		debuggerPlugin = GDBDebugging;
+		disassemblyDisplayState = 0;
+		enableDebugStr = 1;
+		environmentEntries = (
+		);
+		executableSystemSymbolLevel = 0;
+		executableUserSymbolLevel = 0;
+		libgmallocEnabled = 0;
+		name = "ZPR-iPad Free";
+		showTypeColumn = 0;
+		sourceDirectories = (
+		);
+	};
+	A55DD077147545AB005F09CC /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = C83C471E1463C8EB0049980E /* ZPR_IAP.m */;
+		name = "ZPR_IAP.m: 274";
+		rLen = 26;
+		rLoc = 7126;
+		rType = 0;
+		vrLen = 1133;
+		vrLoc = 6557;
+	};
+	A55DD078147545AB005F09CC /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = CADFD78A138FA95C00CA982E /* GameData.mm */;
+		name = "GameData.mm: 443";
+		rLen = 16;
+		rLoc = 12382;
+		rType = 0;
+		vrLen = 889;
+		vrLoc = 0;
+	};
+	A55DD07D147545AB005F09CC /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = CAB76CF813B9B825002EAEF5 /* Stage.mm */;
+		name = "Stage.mm: 1235";
+		rLen = 8;
+		rLoc = 28010;
+		rType = 0;
+		vrLen = 888;
+		vrLoc = 27459;
+	};
+	A55DD07E147545AB005F09CC /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = CADFD789138FA95C00CA982E /* GameData.h */;
+		name = "GameData.h: 19";
+		rLen = 16;
+		rLoc = 370;
+		rType = 0;
+		vrLen = 718;
+		vrLoc = 0;
+	};
+	A55DD089147548AF005F09CC /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = CADFD5AD138F752F00CA982E /* GameRes.mm */;
+		name = "GameRes.mm: 298";
+		rLen = 0;
+		rLoc = 7821;
+		rType = 0;
+		vrLen = 1638;
+		vrLoc = 7313;
+	};
+	A5630FFD1457F734002DB5C8 /* ZPR */ = {
+		isa = PBXExecutable;
+		activeArgIndices = (
+		);
+		argumentStrings = (
+		);
+		autoAttachOnCrash = 1;
+		breakpointsEnabled = 0;
+		configStateDict = {
+		};
+		customDataFormattersEnabled = 1;
+		dataTipCustomDataFormattersEnabled = 1;
+		dataTipShowTypeColumn = 1;
+		dataTipSortType = 0;
+		debuggerPlugin = GDBDebugging;
+		disassemblyDisplayState = 0;
+		dylibVariantSuffix = "";
+		enableDebugStr = 1;
+		environmentEntries = (
+		);
+		executableSystemSymbolLevel = 0;
+		executableUserSymbolLevel = 0;
+		libgmallocEnabled = 0;
+		name = ZPR;
+		savedGlobals = {
+		};
+		showTypeColumn = 0;
+		sourceDirectories = (
+		);
+		variableFormatDictionary = {
+		};
+	};
+	A5630FFE1457F734002DB5C8 /* ZPR-iPad */ = {
+		isa = PBXExecutable;
+		activeArgIndices = (
+		);
+		argumentStrings = (
+		);
+		autoAttachOnCrash = 1;
+		breakpointsEnabled = 0;
+		configStateDict = {
+		};
+		customDataFormattersEnabled = 1;
+		dataTipCustomDataFormattersEnabled = 1;
+		dataTipShowTypeColumn = 1;
+		dataTipSortType = 0;
+		debuggerPlugin = GDBDebugging;
+		disassemblyDisplayState = 0;
+		enableDebugStr = 1;
+		environmentEntries = (
+		);
+		executableSystemSymbolLevel = 0;
+		executableUserSymbolLevel = 0;
+		libgmallocEnabled = 0;
+		name = "ZPR-iPad";
+		showTypeColumn = 0;
+		sourceDirectories = (
+		);
+	};
+	A56314171457F737002DB5C8 /* Source Control */ = {
+		isa = PBXSourceControlManager;
+		fallbackIsa = XCSourceControlManager;
+		isSCMEnabled = 0;
+		scmConfiguration = {
+			repositoryNamesForRoots = {
+				"" = "";
+			};
+		};
+	};
+	A56314181457F737002DB5C8 /* Code sense */ = {
+		isa = PBXCodeSenseManager;
+		indexTemplatePath = "";
+	};
+	A5684D3F145A4D54003BF875 /* GameLevelTwelve.h */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {1029, 734}}";
+			sepNavSelRange = "{0, 0}";
+			sepNavVisRange = "{0, 665}";
+		};
+	};
+	A5684D40145A4D54003BF875 /* GameLevelTwelve.mm */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {1029, 4251}}";
+			sepNavSelRange = "{5033, 8}";
+			sepNavVisRange = "{3027, 2032}";
+		};
+	};
+	A5684D4F145A9D9F003BF875 /* GameBedroom.h */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {985, 723}}";
+			sepNavSelRange = "{0, 0}";
+			sepNavVisRange = "{0, 450}";
+		};
+	};
+	A5684D50145A9D9F003BF875 /* GameBedroom.mm */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {1923, 4446}}";
+			sepNavSelRange = "{4764, 0}";
+			sepNavVisRange = "{4068, 1547}";
+		};
+	};
+	A5E5039D140E46D500DBB1C8 /* GameHouse.mm */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {1146, 6669}}";
+			sepNavSelRange = "{15920, 0}";
+			sepNavVisRange = "{15314, 403}";
+		};
+	};
+	A5FFA6BD1475D17A00E41E1A /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 4A1D3CF613D810AF00D6FCEE /* GameLevel.mm */;
+		name = "GameLevel.mm: 160";
+		rLen = 0;
+		rLoc = 3820;
+		rType = 0;
+		vrLen = 1565;
+		vrLoc = 3344;
+	};
+	C83C471E1463C8EB0049980E /* ZPR_IAP.m */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {985, 6786}}";
+			sepNavSelRange = "{7126, 26}";
+			sepNavVisRange = "{6557, 1133}";
+		};
+	};
+	CA11494B13C6902800F713D2 /* Item.cpp */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {1173, 2990}}";
+			sepNavSelRange = "{626, 11}";
+			sepNavVisRange = "{0, 724}";
+		};
+	};
+	CA5BCA60147347C30020C0DF /* ZPR Free */ = {
+		activeExec = 0;
+		executables = (
+			A55DCC4514753CA1005F09CC /* ZPR Free */,
+		);
+	};
+	CA5BCC64147347D90020C0DF /* ZPR-iPad Free */ = {
+		activeExec = 0;
+		executables = (
+			A55DCC4614753CA1005F09CC /* ZPR-iPad Free */,
+		);
+	};
+	CAA4CCBC148733F900F2B172 /* ZPR test version */ = {
+		activeExec = 0;
+		executables = (
+			A52C1A74148791A800877D6A /* ZPR test version */,
+		);
+	};
+	CAA4CECD1487418B00F2B172 /* ZPR-iPad test version */ = {
+		activeExec = 0;
+		executables = (
+			A52C1A75148791A800877D6A /* ZPR-iPad test version */,
+		);
+	};
+	CAB76CF813B9B825002EAEF5 /* Stage.mm */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {985, 18577}}";
+			sepNavSelRange = "{28010, 8}";
+			sepNavVisRange = "{27459, 888}";
+		};
+	};
+	CADFD5A6138F73E500CA982E /* GameState.h */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {1173, 2093}}";
+			sepNavSelRange = "{3710, 11}";
+			sepNavVisRange = "{2783, 944}";
+		};
+	};
+	CADFD5A7138F73E500CA982E /* GameState.mm */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {1173, 13975}}";
+			sepNavSelRange = "{3658, 12}";
+			sepNavVisRange = "{3138, 691}";
+		};
+	};
+	CADFD5AC138F752F00CA982E /* GameRes.h */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {1173, 1833}}";
+			sepNavSelRange = "{1949, 12}";
+			sepNavVisRange = "{1570, 861}";
+		};
+	};
+	CADFD5AD138F752F00CA982E /* GameRes.mm */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {1173, 12259}}";
+			sepNavSelRange = "{23066, 11}";
+			sepNavVisRange = "{22564, 1315}";
+		};
+	};
+	CADFD789138FA95C00CA982E /* GameData.h */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {985, 701}}";
+			sepNavSelRange = "{370, 16}";
+			sepNavVisRange = "{0, 718}";
+		};
+	};
+	CADFD78A138FA95C00CA982E /* GameData.mm */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {1173, 5694}}";
+			sepNavSelRange = "{1595, 8}";
+			sepNavVisRange = "{944, 1614}";
+		};
+	};
+	FBF5069A1472A0DC00C25413 /* ZPR_Prefix.pch */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {985, 1963}}";
+			sepNavSelRange = "{1934, 0}";
+			sepNavVisRange = "{2538, 1073}";
+		};
+	};
+}

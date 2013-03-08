@@ -1,0 +1,10 @@
+<?xml version="1.0"?>
+<animation name="isk.xml" source="isk.png" type="frame-by-frame_animation">
+  <img name="isk" savedname="isk.png" fx="0" fy="0" fw="256" fh="32" row="1" cnt="8" duration="66">
+    <framelist>
+      <frameset fsid="0" fs="0" fc="5" type="1" />
+      <frameset fsid="1" fs="4" fc="1" type="1" />
+      <frameset fsid="2" fs="5" fc="3" type="1" />
+    </framelist>
+  </img>
+</animation>

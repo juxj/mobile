@@ -1,0 +1,13 @@
+<?xml version="1.0"?>
+<animation name="rain.xml" source="rain.png" type="frame-by-frame_animation">
+  <img name="rain0" savedname="rain.png" fx="28" fy="0" fw="4" fh="16" row="1" cnt="1">
+    <framelist>
+      <frameset fsid="0" name="r_a0_" fs="0" fc="1" type="1" />
+    </framelist>
+  </img>
+  <img name="rain1" savedname="rain.png" fx="0" fy="0" fw="14" fh="8" row="2" cnt="4">
+    <framelist>
+      <frameset fsid="1" name="r_a1_" fs="0" fc="4" duration="50" type="3" />
+    </framelist>
+  </img>
+</animation>

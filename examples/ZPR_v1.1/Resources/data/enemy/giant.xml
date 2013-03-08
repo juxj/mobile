@@ -1,0 +1,9 @@
+<?xml version="1.0"?>
+<animation name="giant.xml" source="giant.png" type="frame-by-frame_animation">
+  <img name="giant" savedname="giant.png" fw="202" fh="135" row="5" cnt="35">
+    <framelist>
+      <frameset fsid="0" name="giant_0_" fs="0"  fc="20" duration="66" type="0" />
+      <frameset fsid="1" name="giant_1_" fs="20" fc="15" duration="66" type="1" />
+    </framelist>
+  </img>
+</animation>

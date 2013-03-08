@@ -1,0 +1,143 @@
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/iphone/!svn/ver/3818/trunk/ZPR_v1.1/Resources-iPad/sounds/se/common
+END
+S_02.caf
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svn/iphone/!svn/ver/3818/trunk/ZPR_v1.1/Resources-iPad/sounds/se/common/S_02.caf
+END
+zpr_ui_game_over_02.mp3
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/svn/iphone/!svn/ver/3818/trunk/ZPR_v1.1/Resources-iPad/sounds/se/common/zpr_ui_game_over_02.mp3
+END
+S_03.caf
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svn/iphone/!svn/ver/3818/trunk/ZPR_v1.1/Resources-iPad/sounds/se/common/S_03.caf
+END
+S_40.caf
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svn/iphone/!svn/ver/3818/trunk/ZPR_v1.1/Resources-iPad/sounds/se/common/S_40.caf
+END
+S_04.caf
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svn/iphone/!svn/ver/3818/trunk/ZPR_v1.1/Resources-iPad/sounds/se/common/S_04.caf
+END
+zpr_ui_button_click_01.wav
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/svn/iphone/!svn/ver/3818/trunk/ZPR_v1.1/Resources-iPad/sounds/se/common/zpr_ui_button_click_01.wav
+END
+zpr_ui_button_click_02.wav
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/svn/iphone/!svn/ver/3818/trunk/ZPR_v1.1/Resources-iPad/sounds/se/common/zpr_ui_button_click_02.wav
+END
+zpr_ui_button_click_01.mp3
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/svn/iphone/!svn/ver/3818/trunk/ZPR_v1.1/Resources-iPad/sounds/se/common/zpr_ui_button_click_01.mp3
+END
+zpr_ui_button_click_02.mp3
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/svn/iphone/!svn/ver/3818/trunk/ZPR_v1.1/Resources-iPad/sounds/se/common/zpr_ui_button_click_02.mp3
+END
+zpr_rain_loop.wav
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svn/iphone/!svn/ver/3818/trunk/ZPR_v1.1/Resources-iPad/sounds/se/common/zpr_rain_loop.wav
+END
+convertSfx.sh
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svn/iphone/!svn/ver/3818/trunk/ZPR_v1.1/Resources-iPad/sounds/se/common/convertSfx.sh
+END
+zpr_ui_game_start.wav
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/svn/iphone/!svn/ver/3818/trunk/ZPR_v1.1/Resources-iPad/sounds/se/common/zpr_ui_game_start.wav
+END
+zpr_rain_loop.mp3
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svn/iphone/!svn/ver/3818/trunk/ZPR_v1.1/Resources-iPad/sounds/se/common/zpr_rain_loop.mp3
+END
+zpr_ui_game_start.mp3
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/svn/iphone/!svn/ver/3818/trunk/ZPR_v1.1/Resources-iPad/sounds/se/common/zpr_ui_game_start.mp3
+END
+S_05_1.caf
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svn/iphone/!svn/ver/3818/trunk/ZPR_v1.1/Resources-iPad/sounds/se/common/S_05_1.caf
+END
+S_05_2.caf
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svn/iphone/!svn/ver/3818/trunk/ZPR_v1.1/Resources-iPad/sounds/se/common/S_05_2.caf
+END
+zpr_ui_powerup.wav
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svn/iphone/!svn/ver/3818/trunk/ZPR_v1.1/Resources-iPad/sounds/se/common/zpr_ui_powerup.wav
+END
+zpr_ui_powerup.mp3
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svn/iphone/!svn/ver/3818/trunk/ZPR_v1.1/Resources-iPad/sounds/se/common/zpr_ui_powerup.mp3
+END
+zpr_ui_game_over_01.wav
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/svn/iphone/!svn/ver/3818/trunk/ZPR_v1.1/Resources-iPad/sounds/se/common/zpr_ui_game_over_01.wav
+END
+zpr_ui_game_over_02.wav
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/svn/iphone/!svn/ver/3818/trunk/ZPR_v1.1/Resources-iPad/sounds/se/common/zpr_ui_game_over_02.wav
+END
+zpr_ui_game_over_01.mp3
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/svn/iphone/!svn/ver/3818/trunk/ZPR_v1.1/Resources-iPad/sounds/se/common/zpr_ui_game_over_01.mp3
+END
+convertSfxMp3.sh
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svn/iphone/!svn/ver/3818/trunk/ZPR_v1.1/Resources-iPad/sounds/se/common/convertSfxMp3.sh
+END
+S_01.caf
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svn/iphone/!svn/ver/3818/trunk/ZPR_v1.1/Resources-iPad/sounds/se/common/S_01.caf
+END

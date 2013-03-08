@@ -1,0 +1,59 @@
+<?xml version="1.0"?>
+<animation name="p0.xml" source="p0.png" type="frame-by-frame_animation">
+  <img name="p00" savedname="p00.png" fw="89" fh="97" row="11" cnt="100">
+    <framelist>
+      <frameset fsid="0" fs="0"  fc="1"  duration="33" type="1" />
+      <frameset fsid="1" fs="1"  fc="16" duration="33" type="0" />
+      <frameset fsid="2" fs="17" fc="7" duration="33"  type="1" />
+      <frameset fsid="3" fs="17" fc="7" duration="33"  type="1" />
+      <frameset fsid="4" fs="24" fc="15" duration="33"  type="1" />
+      <frameset fsid="5" fs="24" fc="15" duration="33"  type="1" />
+      <frameset fsid="6" fs="39" fc="19" duration="33"  type="1" />
+      <frameset fsid="7" fs="58" fc="20" duration="33"  type="1" />
+      <frameset fsid="8" fs="86" fc="24" duration="33"  type="1" />
+    </framelist>
+  </img>
+  <img name="p01" savedname="p01.png" fw="89" fh="97" row="11" cnt="110">
+    <framelist>
+      <frameset fsid="9" fs="0"   fc="20" duration="33" type="0" />
+      <frameset fsid="10" fs="20"  fc="14" duration="33" type="0" />
+	  <frameset fsid="11" fs="34"  fc="16" duration="33" type="0" />
+	  <frameset fsid="12" fs="50" fc="24"  duration="33" type="1" />
+	  <frameset fsid="13" fs="74" fc="19"  duration="33" type="1" />
+       <frameset fsid="14" fs="93"  fc="17"  duration="33" type="1" />
+    </framelist>
+  </img>
+  <img name="p02" savedname="p02.png" fw="89" fh="97" row="11" cnt="106">
+    <framelist>
+       <frameset fsid="15" fs="0"  fc="16" duration="33" type="0" />
+	   <frameset fsid="16" fs="16"  fc="20" duration="33" type="1" />
+	   <frameset fsid="17" fs="36" fc="24" duration="33" type="0" />
+	   <frameset fsid="18" fs="60" fc="25"  duration="33" type="0" />
+	   <frameset fsid="19" fs="85" fc="21"  duration="33" type="1" />
+       </framelist>
+  </img>
+  <img name="p03" savedname="p03.png" fw="89" fh="97" row="11" cnt="107">
+    <framelist>
+     <frameset fsid="20" fs="0" fc="7"  duration="33" type="1" />
+      <frameset fsid="21" fs="7"  fc="6"  duration="33" type="1" />
+      <frameset fsid="22" fs="13"  fc="16"  duration="33" type="1" />
+      <frameset fsid="23" fs="29"  fc="12"  duration="33" type="1" />
+      <frameset fsid="24" fs="41"  fc="25" duration="33" type="1" />
+       <frameset fsid="25" fs="66"  fc="41" duration="33" type="1" />
+    </framelist>
+  </img>
+  <img name="p04" savedname="p04.png" fw="89" fh="97" row="11" cnt="95">
+    <framelist>
+    <frameset fsid="26" fs="0"  fc="30" duration="33" type="1" />
+      <frameset fsid="27" fs="30"  fc="32"  duration="33" type="1" />
+      <frameset fsid="28" fs="62"  fc="25" duration="33" type="1" />
+    </framelist>
+  </img>
+   <img name="p05" savedname="p05.png" fw="89" fh="97" row="11" cnt="55">
+    <framelist>
+      <frameset fsid="29" fs="0"  fc="17" duration="33" type="1" />
+      <frameset fsid="30" fs="17"  fc="25"  duration="33" type="1" />
+      <frameset fsid="31" fs="42"  fc="13"  duration="33" type="1" />
+    </framelist>
+  </img>
+</animation>

@@ -1,0 +1,125 @@
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/svn/iphone/!svn/ver/4655/trunk/ZPR_v1.1/Sources/Game/Item
+END
+Item.h
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/iphone/!svn/ver/3818/trunk/ZPR_v1.1/Sources/Game/Item/Item.h
+END
+Attack.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/iphone/!svn/ver/3818/trunk/ZPR_v1.1/Sources/Game/Item/Attack.cpp
+END
+ScoreTag.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/iphone/!svn/ver/3818/trunk/ZPR_v1.1/Sources/Game/Item/ScoreTag.cpp
+END
+ActionTag.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/iphone/!svn/ver/3818/trunk/ZPR_v1.1/Sources/Game/Item/ActionTag.cpp
+END
+Attack.h
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn/iphone/!svn/ver/3818/trunk/ZPR_v1.1/Sources/Game/Item/Attack.h
+END
+ScoreTag.h
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/iphone/!svn/ver/3818/trunk/ZPR_v1.1/Sources/Game/Item/ScoreTag.h
+END
+ActionTag.h
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/iphone/!svn/ver/3818/trunk/ZPR_v1.1/Sources/Game/Item/ActionTag.h
+END
+SPlayer.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/iphone/!svn/ver/3818/trunk/ZPR_v1.1/Sources/Game/Item/SPlayer.cpp
+END
+Effect.mm
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/iphone/!svn/ver/3818/trunk/ZPR_v1.1/Sources/Game/Item/Effect.mm
+END
+Flust.mm
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn/iphone/!svn/ver/4651/trunk/ZPR_v1.1/Sources/Game/Item/Flust.mm
+END
+SPlayer.h
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/iphone/!svn/ver/3818/trunk/ZPR_v1.1/Sources/Game/Item/SPlayer.h
+END
+InfoTag.h
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/iphone/!svn/ver/3818/trunk/ZPR_v1.1/Sources/Game/Item/InfoTag.h
+END
+Effect.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/iphone/!svn/ver/3818/trunk/ZPR_v1.1/Sources/Game/Item/Effect.cpp
+END
+Flust.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/iphone/!svn/ver/3818/trunk/ZPR_v1.1/Sources/Game/Item/Flust.cpp
+END
+Item.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn/iphone/!svn/ver/4593/trunk/ZPR_v1.1/Sources/Game/Item/Item.cpp
+END
+Attack.mm
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/iphone/!svn/ver/3818/trunk/ZPR_v1.1/Sources/Game/Item/Attack.mm
+END
+ScoreTag.mm
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/iphone/!svn/ver/4651/trunk/ZPR_v1.1/Sources/Game/Item/ScoreTag.mm
+END
+ActionTag.mm
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/iphone/!svn/ver/4655/trunk/ZPR_v1.1/Sources/Game/Item/ActionTag.mm
+END
+Effect.h
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn/iphone/!svn/ver/3818/trunk/ZPR_v1.1/Sources/Game/Item/Effect.h
+END
+Flust.h
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/iphone/!svn/ver/3818/trunk/ZPR_v1.1/Sources/Game/Item/Flust.h
+END

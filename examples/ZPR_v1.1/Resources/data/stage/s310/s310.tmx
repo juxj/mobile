@@ -1,0 +1,1635 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<map version="1.0" orientation="orthogonal" width="455" height="20" tilewidth="32" tileheight="32">
+ <properties>
+  <property name="chase" value="true"/>
+  <property name="rain" value="true"/>
+  <property name="star1" value="426"/>
+  <property name="star2" value="1066"/>
+  <property name="star3" value="2025"/>
+  <property name="startX" value="126"/>
+  <property name="startY" value="352"/>
+ </properties>
+ <tileset firstgid="1" name="shadow" tilewidth="48" tileheight="53">
+  <image source="shadow.png" width="256" height="256"/>
+ </tileset>
+ <tileset firstgid="21" name="treasure" tilewidth="32" tileheight="32">
+  <image source="treasure.png" width="128" height="128"/>
+ </tileset>
+ <tileset firstgid="37" name="zombie" tilewidth="112" tileheight="90">
+  <image source="zombie.png" width="560" height="90"/>
+ </tileset>
+ <tileset firstgid="42" name="building31" tilewidth="32" tileheight="32">
+  <image source="building31.png" width="128" height="128"/>
+ </tileset>
+ <tileset firstgid="58" name="building32" tilewidth="32" tileheight="32">
+  <image source="building32.png" width="128" height="128"/>
+ </tileset>
+ <tileset firstgid="74" name="building03" tilewidth="32" tileheight="32">
+  <image source="building03.png" width="128" height="128"/>
+ </tileset>
+ <tileset firstgid="90" name="object" tilewidth="32" tileheight="32">
+  <image source="object.png" width="256" height="512"/>
+ </tileset>
+ <tileset firstgid="218" name="smallprops" tilewidth="32" tileheight="32">
+  <image source="smallprops.png" width="256" height="256"/>
+ </tileset>
+ <tileset firstgid="282" name="flag2" tilewidth="85" tileheight="128">
+  <image source="flag2.png" width="170" height="128"/>
+ </tileset>
+ <tileset firstgid="284" name="grance" tilewidth="224" tileheight="128">
+  <image source="grance.png" width="224" height="256"/>
+ </tileset>
+ <tileset firstgid="286" name="building21" tilewidth="32" tileheight="32">
+  <image source="building21.png" width="256" height="256"/>
+ </tileset>
+ <tileset firstgid="350" name="building22" tilewidth="32" tileheight="32">
+  <image source="building22.png" width="128" height="128"/>
+ </tileset>
+ <tileset firstgid="366" name="wall05" tilewidth="320" tileheight="160">
+  <image source="wall05.png" width="320" height="160"/>
+ </tileset>
+ <tileset firstgid="367" name="wall06" tilewidth="320" tileheight="160">
+  <image source="wall06.png" width="320" height="160"/>
+ </tileset>
+ <objectgroup name="Terrain" width="455" height="20">
+  <object x="5504" y="608" width="192" height="32">
+   <properties>
+    <property name="tid" value="0"/>
+   </properties>
+  </object>
+  <object x="5666" y="576" width="32" height="32">
+   <properties>
+    <property name="tid" value="4"/>
+   </properties>
+  </object>
+  <object x="9152" y="352" width="128" height="32">
+   <properties>
+    <property name="tid" value="0"/>
+   </properties>
+  </object>
+  <object x="11968" y="416" width="128" height="32">
+   <properties>
+    <property name="tid" value="0"/>
+   </properties>
+  </object>
+  <object x="12192" y="385" width="256" height="32">
+   <properties>
+    <property name="tid" value="0"/>
+   </properties>
+  </object>
+  <object x="6592" y="224" width="352" height="32">
+   <properties>
+    <property name="tid" value="0"/>
+   </properties>
+  </object>
+  <object x="14208" y="512" width="352" height="128">
+   <properties>
+    <property name="tid" value="0"/>
+   </properties>
+  </object>
+  <object x="9760" y="512" width="224" height="128">
+   <properties>
+    <property name="tid" value="0"/>
+   </properties>
+  </object>
+  <object x="14400" y="64" width="32" height="448">
+   <properties>
+    <property name="tid" value="100"/>
+   </properties>
+  </object>
+  <object x="14496" y="64" width="32" height="448">
+   <properties>
+    <property name="tid" value="101"/>
+   </properties>
+  </object>
+  <object x="7040" y="160" width="192" height="32">
+   <properties>
+    <property name="tid" value="0"/>
+   </properties>
+  </object>
+  <object x="6048" y="544" width="192" height="32">
+   <properties>
+    <property name="tid" value="0"/>
+   </properties>
+  </object>
+  <object x="13760" y="352" width="320" height="128">
+   <properties>
+    <property name="tid" value="1"/>
+   </properties>
+  </object>
+  <object x="3552" y="448" width="224" height="128">
+   <properties>
+    <property name="tid" value="7"/>
+   </properties>
+  </object>
+  <object x="12544" y="448" width="416" height="32">
+   <properties>
+    <property name="tid" value="0"/>
+   </properties>
+  </object>
+  <object x="4512" y="364" width="416" height="201">
+   <properties>
+    <property name="tid" value="7"/>
+   </properties>
+  </object>
+  <object x="8384" y="544" width="320" height="32">
+   <properties>
+    <property name="tid" value="0"/>
+   </properties>
+  </object>
+  <object x="7328" y="256" width="96" height="32">
+   <properties>
+    <property name="tid" value="0"/>
+   </properties>
+  </object>
+  <object x="1280" y="320" width="320" height="128">
+   <properties>
+    <property name="tid" value="1"/>
+   </properties>
+  </object>
+  <object x="2624" y="480" width="320" height="128">
+   <properties>
+    <property name="tid" value="1"/>
+   </properties>
+  </object>
+  <object x="448" y="160" width="320" height="128">
+   <properties>
+    <property name="tid" value="1"/>
+   </properties>
+  </object>
+  <object x="11232" y="416" width="224" height="128">
+   <properties>
+    <property name="tid" value="7"/>
+   </properties>
+  </object>
+  <object x="12320" y="352" width="64" height="32">
+   <properties>
+    <property name="tid" value="5"/>
+   </properties>
+  </object>
+  <object x="3904" y="480" width="160" height="32">
+   <properties>
+    <property name="tid" value="2"/>
+   </properties>
+  </object>
+  <object x="3840" y="512" width="256" height="32">
+   <properties>
+    <property name="tid" value="0"/>
+   </properties>
+  </object>
+  <object x="5920" y="576" width="64" height="32">
+   <properties>
+    <property name="tid" value="5"/>
+   </properties>
+  </object>
+  <object x="10304" y="480" width="320" height="128">
+   <properties>
+    <property name="tid" value="1"/>
+   </properties>
+  </object>
+  <object x="5824" y="608" width="160" height="32">
+   <properties>
+    <property name="tid" value="0"/>
+   </properties>
+  </object>
+  <object x="3904" y="448" width="160" height="32">
+   <properties>
+    <property name="tid" value="0"/>
+   </properties>
+  </object>
+  <object x="5216" y="320" width="320" height="128">
+   <properties>
+    <property name="tid" value="1"/>
+   </properties>
+  </object>
+  <object x="10144" y="608" width="96" height="32">
+   <properties>
+    <property name="tid" value="0"/>
+   </properties>
+  </object>
+  <object x="768" y="320" width="128" height="32">
+   <properties>
+    <property name="tid" value="0"/>
+   </properties>
+  </object>
+  <object x="11520" y="480" width="96" height="32">
+   <properties>
+    <property name="tid" value="0"/>
+   </properties>
+  </object>
+  <object x="11744" y="448" width="96" height="32">
+   <properties>
+    <property name="tid" value="0"/>
+   </properties>
+  </object>
+  <object x="1760" y="416" width="32" height="32">
+   <properties>
+    <property name="tid" value="9"/>
+   </properties>
+  </object>
+  <object x="0" y="352" width="352" height="32">
+   <properties>
+    <property name="tid" value="0"/>
+   </properties>
+  </object>
+  <object x="1088" y="288" width="128" height="32">
+   <properties>
+    <property name="tid" value="0"/>
+   </properties>
+  </object>
+  <object x="1984" y="416" width="288" height="224">
+   <properties>
+    <property name="tid" value="0"/>
+   </properties>
+  </object>
+  <object x="3008" y="608" width="128" height="32">
+   <properties>
+    <property name="tid" value="0"/>
+   </properties>
+  </object>
+  <object x="3104" y="576" width="32" height="32">
+   <properties>
+    <property name="tid" value="4"/>
+   </properties>
+  </object>
+  <object x="2624" y="608" width="384" height="32">
+   <properties>
+    <property name="tid" value="5"/>
+   </properties>
+  </object>
+  <object x="5216" y="448" width="160" height="32">
+   <properties>
+    <property name="tid" value="5"/>
+   </properties>
+  </object>
+  <object x="5472" y="448" width="128" height="32">
+   <properties>
+    <property name="tid" value="5"/>
+   </properties>
+  </object>
+  <object x="5601" y="416" width="128" height="32">
+   <properties>
+    <property name="tid" value="0"/>
+   </properties>
+  </object>
+  <object x="5825" y="384" width="96" height="32">
+   <properties>
+    <property name="tid" value="0"/>
+   </properties>
+  </object>
+  <object x="6592" y="448" width="160" height="32">
+   <properties>
+    <property name="tid" value="5"/>
+   </properties>
+  </object>
+  <object x="6880" y="448" width="96" height="32">
+   <properties>
+    <property name="tid" value="5"/>
+   </properties>
+  </object>
+  <object x="6656" y="320" width="320" height="128">
+   <properties>
+    <property name="tid" value="1"/>
+   </properties>
+  </object>
+  <object x="6848" y="608" width="384" height="32">
+   <properties>
+    <property name="tid" value="0"/>
+   </properties>
+  </object>
+  <object x="6976" y="576" width="64" height="32">
+   <properties>
+    <property name="tid" value="5"/>
+   </properties>
+  </object>
+  <object x="6368" y="352" width="224" height="128">
+   <properties>
+    <property name="tid" value="7"/>
+   </properties>
+  </object>
+  <object x="7552" y="544" width="224" height="32">
+   <properties>
+    <property name="tid" value="2"/>
+   </properties>
+  </object>
+  <object x="7552" y="512" width="224" height="32">
+   <properties>
+    <property name="tid" value="0"/>
+   </properties>
+  </object>
+  <object x="7456" y="576" width="384" height="32">
+   <properties>
+    <property name="tid" value="0"/>
+   </properties>
+  </object>
+  <object x="3232" y="608" width="96" height="32">
+   <properties>
+    <property name="tid" value="0"/>
+   </properties>
+  </object>
+  <object x="5728" y="384" width="96" height="32">
+   <properties>
+    <property name="tid" value="5"/>
+   </properties>
+  </object>
+  <object x="5920" y="384" width="96" height="32">
+   <properties>
+    <property name="tid" value="5"/>
+   </properties>
+  </object>
+  <object x="6017" y="352" width="128" height="32">
+   <properties>
+    <property name="tid" value="0"/>
+   </properties>
+  </object>
+  <object x="6335" y="160" width="224" height="128">
+   <properties>
+    <property name="tid" value="7"/>
+   </properties>
+  </object>
+  <object x="6144" y="320" width="128" height="32">
+   <properties>
+    <property name="tid" value="0"/>
+   </properties>
+  </object>
+  <object x="6271" y="320" width="96" height="32">
+   <properties>
+    <property name="tid" value="5"/>
+   </properties>
+  </object>
+  <object x="7978" y="416" width="320" height="128">
+   <properties>
+    <property name="tid" value="1"/>
+   </properties>
+  </object>
+  <object x="4928" y="0" width="32" height="448">
+   <properties>
+    <property name="tid" value="200"/>
+   </properties>
+  </object>
+  <object x="9408" y="224" width="320" height="128">
+   <properties>
+    <property name="tid" value="1"/>
+   </properties>
+  </object>
+  <object x="9728" y="224" width="32" height="128">
+   <properties>
+    <property name="tid" value="5"/>
+   </properties>
+  </object>
+  <object x="4160" y="608" width="320" height="32">
+   <properties>
+    <property name="tid" value="5"/>
+   </properties>
+  </object>
+  <object x="4160" y="480" width="320" height="128">
+   <properties>
+    <property name="tid" value="1"/>
+   </properties>
+  </object>
+  <object x="13056" y="288" width="320" height="128">
+   <properties>
+    <property name="tid" value="1"/>
+   </properties>
+  </object>
+  <object x="13056" y="416" width="192" height="32">
+   <properties>
+    <property name="tid" value="5"/>
+   </properties>
+  </object>
+  <object x="13760" y="480" width="320" height="32">
+   <properties>
+    <property name="tid" value="5"/>
+   </properties>
+  </object>
+  <object x="4929" y="448" width="288" height="32">
+   <properties>
+    <property name="tid" value="0"/>
+   </properties>
+  </object>
+  <object x="6944" y="192" width="96" height="32">
+   <properties>
+    <property name="tid" value="5"/>
+   </properties>
+  </object>
+  <object x="10848" y="448" width="320" height="128">
+   <properties>
+    <property name="tid" value="1"/>
+   </properties>
+  </object>
+  <object x="10688" y="576" width="96" height="32">
+   <properties>
+    <property name="tid" value="0"/>
+   </properties>
+  </object>
+  <object x="8384" y="0" width="32" height="544">
+   <properties>
+    <property name="tid" value="200"/>
+   </properties>
+  </object>
+  <object x="8992" y="416" width="128" height="32">
+   <properties>
+    <property name="tid" value="0"/>
+   </properties>
+  </object>
+  <object x="8736" y="352" width="224" height="128">
+   <properties>
+    <property name="tid" value="7"/>
+   </properties>
+  </object>
+  <object x="14208" y="0" width="32" height="512">
+   <properties>
+    <property name="tid" value="200"/>
+   </properties>
+  </object>
+  <object x="13440" y="512" width="256" height="32">
+   <properties>
+    <property name="tid" value="0"/>
+   </properties>
+  </object>
+ </objectgroup>
+ <objectgroup name="Billboard" width="455" height="20">
+  <object gid="366" x="448" y="320">
+   <properties>
+    <property name="tid" value="5"/>
+   </properties>
+  </object>
+  <object gid="367" x="1280" y="480">
+   <properties>
+    <property name="tid" value="6"/>
+   </properties>
+  </object>
+  <object gid="367" x="9408" y="384">
+   <properties>
+    <property name="tid" value="6"/>
+   </properties>
+  </object>
+  <object gid="367" x="6656" y="480">
+   <properties>
+    <property name="tid" value="6"/>
+   </properties>
+  </object>
+  <object gid="367" x="4160" y="640">
+   <properties>
+    <property name="tid" value="6"/>
+   </properties>
+  </object>
+  <object gid="366" x="7968" y="576">
+   <properties>
+    <property name="tid" value="5"/>
+   </properties>
+  </object>
+  <object gid="366" x="5216" y="480">
+   <properties>
+    <property name="tid" value="5"/>
+   </properties>
+  </object>
+  <object gid="366" x="2624" y="640">
+   <properties>
+    <property name="tid" value="5"/>
+   </properties>
+  </object>
+  <object gid="366" x="10304" y="640">
+   <properties>
+    <property name="tid" value="5"/>
+   </properties>
+  </object>
+  <object gid="367" x="10848" y="608">
+   <properties>
+    <property name="tid" value="6"/>
+   </properties>
+  </object>
+  <object gid="366" x="13056" y="448">
+   <properties>
+    <property name="tid" value="5"/>
+   </properties>
+  </object>
+  <object gid="367" x="13760" y="512">
+   <properties>
+    <property name="tid" value="6"/>
+   </properties>
+  </object>
+ </objectgroup>
+ <objectgroup name="PlayerField" width="455" height="20">
+  <object gid="59" x="5600" y="640"/>
+  <object gid="58" x="5504" y="640"/>
+  <object gid="59" x="5632" y="640"/>
+  <object gid="59" x="5568" y="640"/>
+  <object gid="59" x="5536" y="640"/>
+  <object gid="59" x="7104" y="192"/>
+  <object gid="59" x="7168" y="192"/>
+  <object gid="59" x="7136" y="192"/>
+  <object gid="59" x="7072" y="192"/>
+  <object gid="146" x="5664" y="608"/>
+  <object gid="70" x="160" y="448"/>
+  <object gid="59" x="8608" y="576"/>
+  <object gid="59" x="8640" y="576"/>
+  <object gid="61" x="7200" y="192"/>
+  <object gid="59" x="9218" y="384"/>
+  <object gid="59" x="9186" y="384"/>
+  <object gid="59" x="192" y="384"/>
+  <object gid="59" x="160" y="384"/>
+  <object gid="61" x="320" y="384"/>
+  <object gid="59" x="128" y="384"/>
+  <object gid="59" x="96" y="384"/>
+  <object gid="59" x="256" y="384"/>
+  <object gid="59" x="224" y="384"/>
+  <object gid="59" x="3904" y="544"/>
+  <object gid="59" x="4000" y="544"/>
+  <object gid="59" x="3840" y="544"/>
+  <object gid="59" x="3872" y="544"/>
+  <object gid="59" x="3968" y="544"/>
+  <object gid="61" x="4064" y="544"/>
+  <object gid="59" x="3936" y="544"/>
+  <object gid="70" x="9856" y="608"/>
+  <object gid="61" x="8672" y="576"/>
+  <object gid="70" x="224" y="544"/>
+  <object gid="63" x="160" y="480"/>
+  <object gid="63" x="192" y="448"/>
+  <object gid="58" x="9154" y="384"/>
+  <object gid="65" x="320" y="416"/>
+  <object gid="71" x="96" y="544"/>
+  <object gid="65" x="320" y="480"/>
+  <object gid="73" x="288" y="544"/>
+  <object gid="66" x="96" y="512"/>
+  <object gid="66" x="160" y="416"/>
+  <object gid="65" x="320" y="448"/>
+  <object gid="70" x="96" y="448"/>
+  <object gid="65" x="320" y="544"/>
+  <object gid="66" x="224" y="512"/>
+  <object gid="65" x="320" y="512"/>
+  <object gid="69" x="288" y="512"/>
+  <object gid="66" x="96" y="416"/>
+  <object gid="58" x="0" y="384"/>
+  <object gid="63" x="192" y="416"/>
+  <object gid="63" x="224" y="480"/>
+  <object gid="45" x="12064" y="448"/>
+  <object gid="43" x="12000" y="448"/>
+  <object gid="42" x="11968" y="448"/>
+  <object gid="43" x="12032" y="448"/>
+  <object gid="43" x="12384" y="416"/>
+  <object gid="43" x="12352" y="416"/>
+  <object gid="45" x="12416" y="416"/>
+  <object gid="43" x="12288" y="416"/>
+  <object gid="43" x="12224" y="416"/>
+  <object gid="42" x="12192" y="416"/>
+  <object gid="43" x="12256" y="416"/>
+  <object gid="43" x="12320" y="416"/>
+  <object gid="59" x="6720" y="256"/>
+  <object gid="59" x="6688" y="256"/>
+  <object gid="59" x="6656" y="256"/>
+  <object gid="59" x="6624" y="256"/>
+  <object gid="58" x="6592" y="256"/>
+  <object gid="59" x="832" y="352"/>
+  <object gid="59" x="800" y="352"/>
+  <object gid="59" x="9792" y="544"/>
+  <object gid="59" x="9888" y="544"/>
+  <object gid="59" x="9856" y="544"/>
+  <object gid="58" x="9760" y="544"/>
+  <object gid="63" x="9856" y="640"/>
+  <object gid="59" x="9920" y="544"/>
+  <object gid="60" x="9792" y="576"/>
+  <object gid="61" x="9952" y="544"/>
+  <object gid="59" x="9824" y="544"/>
+  <object gid="64" x="9792" y="608"/>
+  <object gid="63" x="9824" y="576"/>
+  <object gid="65" x="9952" y="576"/>
+  <object gid="65" x="9952" y="608"/>
+  <object gid="73" x="14400" y="608"/>
+  <object gid="73" x="14464" y="608"/>
+  <object gid="58" x="14208" y="544"/>
+  <object gid="59" x="14496" y="544"/>
+  <object gid="59" x="14464" y="544"/>
+  <object gid="59" x="14400" y="544"/>
+  <object gid="70" x="14336" y="608"/>
+  <object gid="69" x="14400" y="576"/>
+  <object gid="59" x="14336" y="544"/>
+  <object gid="64" x="14496" y="608"/>
+  <object gid="60" x="14496" y="576"/>
+  <object gid="59" x="14432" y="544"/>
+  <object gid="59" x="14368" y="544"/>
+  <object gid="63" x="9824" y="640"/>
+  <object gid="65" x="9952" y="640"/>
+  <object gid="66" x="9856" y="576"/>
+  <object gid="62" x="0" y="448"/>
+  <object gid="62" x="0" y="416"/>
+  <object gid="62" x="0" y="512"/>
+  <object gid="62" x="0" y="480"/>
+  <object gid="62" x="0" y="544"/>
+  <object gid="63" x="256" y="416"/>
+  <object gid="62" x="9760" y="608"/>
+  <object gid="62" x="9760" y="576"/>
+  <object gid="62" x="9760" y="640"/>
+  <object gid="64" x="9792" y="640"/>
+  <object gid="72" x="9920" y="608"/>
+  <object gid="62" x="14208" y="576"/>
+  <object gid="62" x="14208" y="608"/>
+  <object gid="66" x="14336" y="576"/>
+  <object gid="69" x="14464" y="576"/>
+  <object gid="59" x="6848" y="256"/>
+  <object gid="59" x="6880" y="256"/>
+  <object gid="59" x="6752" y="256"/>
+  <object gid="59" x="6816" y="256"/>
+  <object gid="59" x="6784" y="256"/>
+  <object gid="282" x="14368" y="519"/>
+  <object gid="62" x="13440" y="608"/>
+  <object gid="65" x="13664" y="640"/>
+  <object gid="58" x="13440" y="544"/>
+  <object gid="62" x="13440" y="640"/>
+  <object gid="59" x="13504" y="544"/>
+  <object gid="59" x="13536" y="544"/>
+  <object gid="65" x="13664" y="576"/>
+  <object gid="62" x="13440" y="576"/>
+  <object gid="61" x="13664" y="544"/>
+  <object gid="59" x="13472" y="544"/>
+  <object gid="65" x="13664" y="608"/>
+  <object gid="59" x="13600" y="544"/>
+  <object gid="59" x="13568" y="544"/>
+  <object gid="285" x="3552" y="576"/>
+  <object gid="285" x="4512" y="576"/>
+  <object gid="59" x="12608" y="480"/>
+  <object gid="59" x="12768" y="480"/>
+  <object gid="58" x="12544" y="480"/>
+  <object gid="59" x="12832" y="480"/>
+  <object gid="59" x="12576" y="480"/>
+  <object gid="59" x="12704" y="480"/>
+  <object gid="59" x="12736" y="480"/>
+  <object gid="59" x="12672" y="480"/>
+  <object gid="59" x="12640" y="480"/>
+  <object gid="59" x="12864" y="480"/>
+  <object gid="59" x="12800" y="480"/>
+  <object gid="61" x="12928" y="480"/>
+  <object gid="59" x="7363" y="288"/>
+  <object gid="58" x="7331" y="288"/>
+  <object gid="59" x="8416" y="576"/>
+  <object gid="59" x="8448" y="576"/>
+  <object gid="285" x="11232" y="544"/>
+  <object gid="91" x="12320" y="384"/>
+  <object gid="360" x="4032" y="480"/>
+  <object gid="352" x="4000" y="480"/>
+  <object gid="351" x="3936" y="480"/>
+  <object gid="350" x="3968" y="480"/>
+  <object gid="359" x="3904" y="480"/>
+  <object gid="59" x="4032" y="544"/>
+  <object gid="59" x="6176" y="576"/>
+  <object gid="59" x="5888" y="640"/>
+  <object gid="58" x="6048" y="576"/>
+  <object gid="59" x="5920" y="640"/>
+  <object gid="59" x="6112" y="576"/>
+  <object gid="61" x="6208" y="576"/>
+  <object gid="59" x="6144" y="576"/>
+  <object gid="59" x="5856" y="640"/>
+  <object gid="59" x="6080" y="576"/>
+  <object gid="91" x="5952" y="608"/>
+  <object gid="92" x="12352" y="384"/>
+  <object gid="90" x="5920" y="608"/>
+  <object gid="63" x="288" y="480"/>
+  <object gid="59" x="288" y="384"/>
+  <object gid="66" x="288" y="416"/>
+  <object gid="70" x="288" y="448"/>
+  <object gid="61" x="6912" y="256"/>
+  <object gid="58" x="7040" y="192"/>
+  <object gid="61" x="7395" y="288"/>
+  <object gid="58" x="8384" y="576"/>
+  <object gid="61" x="9248" y="384"/>
+  <object gid="58" x="5824" y="640"/>
+  <object gid="61" x="5952" y="640"/>
+  <object gid="58" x="10144" y="640"/>
+  <object gid="61" x="10208" y="640"/>
+  <object gid="303" x="1760" y="448"/>
+  <object gid="59" x="11552" y="512"/>
+  <object gid="59" x="11776" y="480"/>
+  <object gid="61" x="864" y="352"/>
+  <object gid="58" x="11744" y="480"/>
+  <object gid="58" x="768" y="352"/>
+  <object gid="61" x="11808" y="480"/>
+  <object gid="58" x="11520" y="512"/>
+  <object gid="61" x="11584" y="512"/>
+  <object gid="69" x="160" y="512"/>
+  <object gid="73" x="160" y="544"/>
+  <object gid="68" x="224" y="416"/>
+  <object gid="72" x="224" y="448"/>
+  <object gid="63" x="192" y="480"/>
+  <object gid="63" x="192" y="512"/>
+  <object gid="63" x="192" y="544"/>
+  <object gid="73" x="224" y="640"/>
+  <object gid="62" x="0" y="576"/>
+  <object gid="63" x="160" y="576"/>
+  <object gid="69" x="224" y="608"/>
+  <object gid="63" x="288" y="576"/>
+  <object gid="70" x="288" y="640"/>
+  <object gid="66" x="160" y="608"/>
+  <object gid="65" x="320" y="640"/>
+  <object gid="70" x="96" y="640"/>
+  <object gid="70" x="160" y="640"/>
+  <object gid="63" x="192" y="576"/>
+  <object gid="62" x="0" y="608"/>
+  <object gid="65" x="320" y="576"/>
+  <object gid="63" x="192" y="608"/>
+  <object gid="63" x="224" y="576"/>
+  <object gid="66" x="288" y="608"/>
+  <object gid="63" x="192" y="640"/>
+  <object gid="65" x="320" y="608"/>
+  <object gid="62" x="0" y="640"/>
+  <object gid="66" x="96" y="608"/>
+  <object gid="59" x="1152" y="320"/>
+  <object gid="59" x="1120" y="320"/>
+  <object gid="61" x="1184" y="320"/>
+  <object gid="58" x="1088" y="320"/>
+  <object gid="59" x="2048" y="448"/>
+  <object gid="65" x="2240" y="512"/>
+  <object gid="59" x="2112" y="448"/>
+  <object gid="65" x="2240" y="544"/>
+  <object gid="62" x="1984" y="608"/>
+  <object gid="62" x="1984" y="480"/>
+  <object gid="65" x="2240" y="576"/>
+  <object gid="59" x="2176" y="448"/>
+  <object gid="61" x="2240" y="448"/>
+  <object gid="62" x="1984" y="544"/>
+  <object gid="59" x="2208" y="448"/>
+  <object gid="59" x="2144" y="448"/>
+  <object gid="65" x="2240" y="608"/>
+  <object gid="59" x="2016" y="448"/>
+  <object gid="59" x="2080" y="448"/>
+  <object gid="65" x="2240" y="640"/>
+  <object gid="62" x="1984" y="576"/>
+  <object gid="58" x="1984" y="448"/>
+  <object gid="65" x="2240" y="480"/>
+  <object gid="62" x="1984" y="640"/>
+  <object gid="62" x="1984" y="512"/>
+  <object gid="59" x="3040" y="640"/>
+  <object gid="61" x="3296" y="640"/>
+  <object gid="59" x="3072" y="640"/>
+  <object gid="97" x="3104" y="608"/>
+  <object gid="92" x="2656" y="640"/>
+  <object gid="92" x="2688" y="640"/>
+  <object gid="91" x="2624" y="640"/>
+  <object gid="91" x="2720" y="640"/>
+  <object gid="92" x="2784" y="640"/>
+  <object gid="92" x="2752" y="640"/>
+  <object gid="91" x="2816" y="640"/>
+  <object gid="92" x="2944" y="640"/>
+  <object gid="92" x="2880" y="640"/>
+  <object gid="92" x="2848" y="640"/>
+  <object gid="92" x="2976" y="640"/>
+  <object gid="91" x="2912" y="640"/>
+  <object gid="91" x="5216" y="480"/>
+  <object gid="91" x="5504" y="480"/>
+  <object gid="91" x="5312" y="480"/>
+  <object gid="92" x="5568" y="480"/>
+  <object gid="92" x="5344" y="480"/>
+  <object gid="92" x="5536" y="480"/>
+  <object gid="92" x="5280" y="480"/>
+  <object gid="92" x="5248" y="480"/>
+  <object gid="43" x="5632" y="448"/>
+  <object gid="42" x="5600" y="448"/>
+  <object gid="45" x="5696" y="448"/>
+  <object gid="43" x="5664" y="448"/>
+  <object gid="59" x="3264" y="640"/>
+  <object gid="92" x="5472" y="480"/>
+  <object gid="42" x="5825" y="416"/>
+  <object gid="45" x="5888" y="416"/>
+  <object gid="43" x="5856" y="416"/>
+  <object gid="61" x="5664" y="640"/>
+  <object gid="92" x="6912" y="480"/>
+  <object gid="92" x="6944" y="480"/>
+  <object gid="92" x="6656" y="480"/>
+  <object gid="92" x="6720" y="480"/>
+  <object gid="91" x="6688" y="480"/>
+  <object gid="91" x="6880" y="480"/>
+  <object gid="92" x="6624" y="480"/>
+  <object gid="91" x="6592" y="480"/>
+  <object gid="43" x="6944" y="640"/>
+  <object gid="45" x="7200" y="640"/>
+  <object gid="43" x="6976" y="640"/>
+  <object gid="92" x="6976" y="609"/>
+  <object gid="43" x="7040" y="640"/>
+  <object gid="42" x="6848" y="640"/>
+  <object gid="43" x="6880" y="640"/>
+  <object gid="92" x="7008" y="609"/>
+  <object gid="43" x="6912" y="640"/>
+  <object gid="43" x="7008" y="640"/>
+  <object gid="285" x="6368" y="480"/>
+  <object gid="59" x="7584" y="608"/>
+  <object gid="351" x="7616" y="544"/>
+  <object gid="62" x="7456" y="640"/>
+  <object gid="356" x="7680" y="544"/>
+  <object gid="59" x="7680" y="608"/>
+  <object gid="352" x="7648" y="544"/>
+  <object gid="59" x="7456" y="608"/>
+  <object gid="59" x="7552" y="608"/>
+  <object gid="359" x="7552" y="544"/>
+  <object gid="59" x="7616" y="608"/>
+  <object gid="59" x="7744" y="608"/>
+  <object gid="61" x="7808" y="608"/>
+  <object gid="59" x="7520" y="608"/>
+  <object gid="65" x="7808" y="640"/>
+  <object gid="59" x="7712" y="608"/>
+  <object gid="360" x="7744" y="544"/>
+  <object gid="59" x="7648" y="608"/>
+  <object gid="59" x="7488" y="608"/>
+  <object gid="355" x="7712" y="544"/>
+  <object gid="350" x="7584" y="544"/>
+  <object gid="58" x="3008" y="640"/>
+  <object gid="58" x="3232" y="640"/>
+  <object gid="61" x="3104" y="640"/>
+  <object gid="92" x="5760" y="416"/>
+  <object gid="92" x="5792" y="416"/>
+  <object gid="91" x="5728" y="416"/>
+  <object gid="42" x="5824" y="416"/>
+  <object gid="92" x="5984" y="416"/>
+  <object gid="42" x="6016" y="384"/>
+  <object gid="43" x="6048" y="384"/>
+  <object gid="92" x="5952" y="416"/>
+  <object gid="43" x="6080" y="384"/>
+  <object gid="45" x="6112" y="384"/>
+  <object gid="285" x="6335" y="288"/>
+  <object gid="45" x="6240" y="352"/>
+  <object gid="43" x="6176" y="352"/>
+  <object gid="43" x="6208" y="352"/>
+  <object gid="42" x="6144" y="352"/>
+  <object gid="92" x="6303" y="352"/>
+  <object gid="92" x="6335" y="352"/>
+  <object gid="91" x="6271" y="352"/>
+  <object gid="283" x="8388" y="549"/>
+  <object gid="92" x="9728" y="352"/>
+  <object gid="92" x="9728" y="320"/>
+  <object gid="91" x="9728" y="288"/>
+  <object gid="92" x="9728" y="256"/>
+  <object gid="91" x="4160" y="640"/>
+  <object gid="92" x="4320" y="640"/>
+  <object gid="92" x="4352" y="640"/>
+  <object gid="92" x="4416" y="640"/>
+  <object gid="91" x="4384" y="640"/>
+  <object gid="92" x="4224" y="640"/>
+  <object gid="92" x="4192" y="640"/>
+  <object gid="91" x="4256" y="640"/>
+  <object gid="92" x="4288" y="640"/>
+  <object gid="92" x="4448" y="640"/>
+  <object gid="91" x="13056" y="448"/>
+  <object gid="92" x="13216" y="448"/>
+  <object gid="92" x="13120" y="448"/>
+  <object gid="92" x="13088" y="448"/>
+  <object gid="91" x="13152" y="448"/>
+  <object gid="92" x="13184" y="448"/>
+  <object gid="91" x="13760" y="512"/>
+  <object gid="92" x="13952" y="512"/>
+  <object gid="92" x="14016" y="512"/>
+  <object gid="91" x="13984" y="512"/>
+  <object gid="92" x="13824" y="512"/>
+  <object gid="92" x="13792" y="512"/>
+  <object gid="91" x="13856" y="512"/>
+  <object gid="92" x="13888" y="512"/>
+  <object gid="92" x="14048" y="512"/>
+  <object gid="65" x="14528" y="608"/>
+  <object gid="65" x="14528" y="576"/>
+  <object gid="61" x="14528" y="544"/>
+  <object gid="63" x="14336" y="640"/>
+  <object gid="63" x="14400" y="640"/>
+  <object gid="63" x="14432" y="576"/>
+  <object gid="63" x="14432" y="608"/>
+  <object gid="63" x="14464" y="640"/>
+  <object gid="62" x="14208" y="640"/>
+  <object gid="65" x="14528" y="640"/>
+  <object gid="64" x="14496" y="640"/>
+  <object gid="63" x="14432" y="640"/>
+  <object gid="92" x="5920" y="416"/>
+  <object gid="59" x="12896" y="480"/>
+  <object gid="42" x="4929" y="480"/>
+  <object gid="42" x="4928" y="480"/>
+  <object gid="43" x="4960" y="480"/>
+  <object gid="43" x="5056" y="480"/>
+  <object gid="92" x="6976" y="224"/>
+  <object gid="92" x="7008" y="224"/>
+  <object gid="91" x="6944" y="224"/>
+  <object gid="58" x="10688" y="608"/>
+  <object gid="61" x="10752" y="608"/>
+  <object gid="59" x="13632" y="544"/>
+  <object gid="59" x="10176" y="640"/>
+  <object gid="63" x="14272" y="640"/>
+  <object gid="66" x="14272" y="576"/>
+  <object gid="59" x="14304" y="544"/>
+  <object gid="70" x="14272" y="608"/>
+  <object gid="59" x="14272" y="544"/>
+  <object gid="59" x="14240" y="544"/>
+  <object gid="91" x="13920" y="512"/>
+  <object gid="63" x="64" y="544"/>
+  <object gid="70" x="32" y="544"/>
+  <object gid="63" x="64" y="608"/>
+  <object gid="63" x="64" y="576"/>
+  <object gid="63" x="64" y="448"/>
+  <object gid="69" x="32" y="416"/>
+  <object gid="66" x="32" y="512"/>
+  <object gid="73" x="32" y="448"/>
+  <object gid="63" x="64" y="512"/>
+  <object gid="63" x="64" y="480"/>
+  <object gid="63" x="32" y="480"/>
+  <object gid="59" x="32" y="384"/>
+  <object gid="63" x="32" y="576"/>
+  <object gid="63" x="64" y="416"/>
+  <object gid="63" x="64" y="640"/>
+  <object gid="69" x="32" y="608"/>
+  <object gid="73" x="32" y="640"/>
+  <object gid="59" x="64" y="384"/>
+  <object gid="45" x="5184" y="480"/>
+  <object gid="43" x="5152" y="480"/>
+  <object gid="285" x="4707" y="485"/>
+  <object gid="43" x="4992" y="480"/>
+  <object gid="43" x="5024" y="480"/>
+  <object gid="43" x="5088" y="480"/>
+  <object gid="43" x="5120" y="480"/>
+  <object gid="283" x="4932" y="453"/>
+  <object gid="59" x="8480" y="576"/>
+  <object gid="59" x="8512" y="576"/>
+  <object gid="59" x="8544" y="576"/>
+  <object gid="59" x="8576" y="576"/>
+  <object gid="58" x="8994" y="448"/>
+  <object gid="59" x="9026" y="448"/>
+  <object gid="59" x="9058" y="448"/>
+  <object gid="61" x="9088" y="448"/>
+  <object gid="285" x="8736" y="480"/>
+  <object gid="59" x="7776" y="608"/>
+  <object gid="59" x="10720" y="608"/>
+  <object gid="68" x="9920" y="576"/>
+  <object gid="63" x="9888" y="576"/>
+  <object gid="63" x="9888" y="640"/>
+  <object gid="63" x="9888" y="608"/>
+  <object gid="63" x="9920" y="640"/>
+  <object gid="63" x="9824" y="608"/>
+  <object gid="63" x="128" y="576"/>
+  <object gid="63" x="128" y="448"/>
+  <object gid="63" x="128" y="416"/>
+  <object gid="63" x="128" y="640"/>
+  <object gid="63" x="128" y="512"/>
+  <object gid="63" x="128" y="544"/>
+  <object gid="63" x="128" y="480"/>
+  <object gid="63" x="128" y="608"/>
+  <object gid="63" x="256" y="608"/>
+  <object gid="63" x="256" y="480"/>
+  <object gid="63" x="256" y="448"/>
+  <object gid="63" x="96" y="576"/>
+  <object gid="63" x="256" y="544"/>
+  <object gid="63" x="256" y="576"/>
+  <object gid="63" x="256" y="512"/>
+  <object gid="63" x="256" y="640"/>
+  <object gid="63" x="96" y="480"/>
+  <object gid="72" x="2176" y="512"/>
+  <object gid="63" x="2176" y="544"/>
+  <object gid="63" x="2144" y="512"/>
+  <object gid="63" x="2016" y="608"/>
+  <object gid="63" x="2144" y="640"/>
+  <object gid="63" x="2112" y="640"/>
+  <object gid="63" x="2080" y="544"/>
+  <object gid="63" x="2208" y="512"/>
+  <object gid="63" x="2016" y="576"/>
+  <object gid="63" x="2080" y="512"/>
+  <object gid="69" x="2112" y="576"/>
+  <object gid="66" x="2176" y="576"/>
+  <object gid="63" x="2208" y="608"/>
+  <object gid="63" x="2080" y="480"/>
+  <object gid="63" x="2144" y="608"/>
+  <object gid="71" x="2048" y="608"/>
+  <object gid="63" x="2048" y="640"/>
+  <object gid="63" x="2144" y="576"/>
+  <object gid="63" x="2016" y="480"/>
+  <object gid="63" x="2208" y="640"/>
+  <object gid="63" x="2144" y="480"/>
+  <object gid="63" x="2016" y="512"/>
+  <object gid="63" x="2048" y="544"/>
+  <object gid="63" x="2176" y="640"/>
+  <object gid="70" x="2112" y="512"/>
+  <object gid="63" x="2208" y="480"/>
+  <object gid="66" x="2048" y="576"/>
+  <object gid="70" x="2048" y="512"/>
+  <object gid="63" x="2080" y="576"/>
+  <object gid="63" x="2016" y="544"/>
+  <object gid="70" x="2176" y="608"/>
+  <object gid="63" x="2080" y="640"/>
+  <object gid="73" x="2112" y="608"/>
+  <object gid="63" x="2208" y="544"/>
+  <object gid="66" x="2048" y="480"/>
+  <object gid="63" x="2080" y="608"/>
+  <object gid="63" x="2208" y="576"/>
+  <object gid="66" x="2112" y="480"/>
+  <object gid="68" x="2176" y="480"/>
+  <object gid="63" x="2144" y="544"/>
+  <object gid="63" x="2016" y="640"/>
+  <object gid="63" x="2112" y="544"/>
+  <object gid="63" x="7552" y="640"/>
+  <object gid="66" x="7776" y="640"/>
+  <object gid="66" x="7584" y="640"/>
+  <object gid="69" x="7520" y="640"/>
+  <object gid="63" x="7616" y="640"/>
+  <object gid="63" x="7744" y="640"/>
+  <object gid="63" x="7680" y="640"/>
+  <object gid="68" x="7712" y="640"/>
+  <object gid="66" x="7648" y="640"/>
+  <object gid="63" x="7488" y="640"/>
+  <object gid="63" x="13568" y="640"/>
+  <object gid="63" x="13568" y="608"/>
+  <object gid="63" x="13568" y="576"/>
+  <object gid="63" x="13504" y="576"/>
+  <object gid="63" x="13504" y="608"/>
+  <object gid="63" x="13536" y="640"/>
+  <object gid="73" x="13472" y="608"/>
+  <object gid="70" x="13600" y="608"/>
+  <object gid="70" x="13536" y="608"/>
+  <object gid="63" x="13504" y="640"/>
+  <object gid="66" x="13536" y="576"/>
+  <object gid="66" x="13600" y="576"/>
+  <object gid="63" x="13472" y="640"/>
+  <object gid="69" x="13472" y="576"/>
+  <object gid="63" x="13600" y="640"/>
+  <object gid="64" x="13632" y="640"/>
+  <object gid="64" x="13632" y="608"/>
+  <object gid="60" x="13632" y="576"/>
+  <object gid="63" x="14240" y="640"/>
+  <object gid="63" x="14240" y="608"/>
+  <object gid="63" x="14240" y="576"/>
+  <object gid="63" x="14304" y="640"/>
+  <object gid="63" x="14304" y="608"/>
+  <object gid="63" x="14304" y="576"/>
+  <object gid="63" x="14368" y="608"/>
+  <object gid="63" x="14368" y="576"/>
+  <object gid="63" x="14368" y="640"/>
+  <object gid="43" x="7072" y="640"/>
+  <object gid="43" x="7104" y="640"/>
+  <object gid="43" x="7136" y="640"/>
+  <object gid="43" x="7168" y="640"/>
+ </objectgroup>
+ <objectgroup name="Treasure" width="455" height="20">
+  <object gid="21" x="3633" y="529"/>
+  <object gid="21" x="3681" y="511"/>
+  <object gid="21" x="3585" y="551"/>
+  <object gid="21" x="620" y="224"/>
+  <object gid="21" x="512" y="247"/>
+  <object gid="21" x="560" y="228"/>
+  <object gid="21" x="680" y="248"/>
+  <object gid="21" x="2712" y="552"/>
+  <object gid="21" x="732" y="284"/>
+  <object gid="21" x="9216" y="352"/>
+  <object gid="21" x="12320" y="321"/>
+  <object gid="21" x="5888" y="608"/>
+  <object gid="21" x="12256" y="321"/>
+  <object gid="21" x="12384" y="321"/>
+  <object gid="21" x="5824" y="608"/>
+  <object gid="21" x="6752" y="192"/>
+  <object gid="21" x="800" y="320"/>
+  <object gid="21" x="10176" y="608"/>
+  <object gid="21" x="14194" y="507"/>
+  <object gid="21" x="10592" y="544"/>
+  <object gid="21" x="10400" y="512"/>
+  <object gid="21" x="2752" y="535"/>
+  <object gid="21" x="2860" y="512"/>
+  <object gid="21" x="2800" y="516"/>
+  <object gid="21" x="2920" y="536"/>
+  <object gid="21" x="1422" y="392"/>
+  <object gid="21" x="1376" y="353"/>
+  <object gid="22" x="12320" y="384">
+   <properties>
+    <property name="tid" value="24"/>
+   </properties>
+  </object>
+  <object gid="22" x="12352" y="384">
+   <properties>
+    <property name="tid" value="24"/>
+   </properties>
+  </object>
+  <object gid="22" x="5920" y="608">
+   <properties>
+    <property name="tid" value="24"/>
+   </properties>
+  </object>
+  <object gid="22" x="5952" y="608">
+   <properties>
+    <property name="tid" value="24"/>
+   </properties>
+  </object>
+  <object gid="21" x="11200" y="544"/>
+  <object gid="21" x="12192" y="385"/>
+  <object gid="21" x="12000" y="416"/>
+  <object gid="21" x="12032" y="416"/>
+  <object gid="21" x="12064" y="416"/>
+  <object gid="21" x="12800" y="416"/>
+  <object gid="21" x="12832" y="416"/>
+  <object gid="21" x="1690" y="412"/>
+  <object gid="21" x="1470" y="375"/>
+  <object gid="21" x="1638" y="376"/>
+  <object gid="21" x="1578" y="352"/>
+  <object gid="21" x="1518" y="356"/>
+  <object gid="21" x="13684" y="516"/>
+  <object gid="21" x="13632" y="480"/>
+  <object gid="21" x="9760" y="448"/>
+  <object gid="21" x="11584" y="480"/>
+  <object gid="21" x="6944" y="70"/>
+  <object gid="21" x="6912" y="64"/>
+  <object gid="21" x="10354" y="537"/>
+  <object gid="21" x="3968" y="512"/>
+  <object gid="21" x="8451" y="544"/>
+  <object gid="21" x="6880" y="64"/>
+  <object gid="21" x="4606" y="527"/>
+  <object gid="21" x="9960" y="448"/>
+  <object gid="21" x="9986" y="475"/>
+  <object gid="21" x="1792" y="480"/>
+  <object gid="21" x="1856" y="416"/>
+  <object gid="21" x="1888" y="416"/>
+  <object gid="21" x="1824" y="448"/>
+  <object gid="21" x="11552" y="480"/>
+  <object gid="21" x="11776" y="448"/>
+  <object gid="21" x="11808" y="448"/>
+  <object gid="21" x="1120" y="288"/>
+  <object gid="21" x="2496" y="384"/>
+  <object gid="21" x="2432" y="352"/>
+  <object gid="21" x="2304" y="384"/>
+  <object gid="21" x="2368" y="352"/>
+  <object gid="21" x="2560" y="416"/>
+  <object gid="21" x="10560" y="512"/>
+  <object gid="22" x="2720" y="640">
+   <properties>
+    <property name="tid" value="24"/>
+   </properties>
+  </object>
+  <object gid="22" x="2752" y="640">
+   <properties>
+    <property name="tid" value="24"/>
+   </properties>
+  </object>
+  <object gid="22" x="2784" y="640">
+   <properties>
+    <property name="tid" value="24"/>
+   </properties>
+  </object>
+  <object gid="22" x="2688" y="640">
+   <properties>
+    <property name="tid" value="24"/>
+   </properties>
+  </object>
+  <object gid="22" x="2624" y="640">
+   <properties>
+    <property name="tid" value="24"/>
+   </properties>
+  </object>
+  <object gid="22" x="2656" y="640">
+   <properties>
+    <property name="tid" value="24"/>
+   </properties>
+  </object>
+  <object gid="22" x="2880" y="640">
+   <properties>
+    <property name="tid" value="24"/>
+   </properties>
+  </object>
+  <object gid="22" x="2944" y="640">
+   <properties>
+    <property name="tid" value="24"/>
+   </properties>
+  </object>
+  <object gid="22" x="2976" y="640">
+   <properties>
+    <property name="tid" value="24"/>
+   </properties>
+  </object>
+  <object gid="22" x="2848" y="640">
+   <properties>
+    <property name="tid" value="24"/>
+   </properties>
+  </object>
+  <object gid="22" x="2912" y="640">
+   <properties>
+    <property name="tid" value="24"/>
+   </properties>
+  </object>
+  <object gid="22" x="2816" y="640">
+   <properties>
+    <property name="tid" value="24"/>
+   </properties>
+  </object>
+  <object gid="22" x="5216" y="480">
+   <properties>
+    <property name="tid" value="24"/>
+   </properties>
+  </object>
+  <object gid="22" x="5344" y="480">
+   <properties>
+    <property name="tid" value="24"/>
+   </properties>
+  </object>
+  <object gid="22" x="5248" y="480">
+   <properties>
+    <property name="tid" value="24"/>
+   </properties>
+  </object>
+  <object gid="22" x="5568" y="480">
+   <properties>
+    <property name="tid" value="24"/>
+   </properties>
+  </object>
+  <object gid="22" x="5504" y="480">
+   <properties>
+    <property name="tid" value="24"/>
+   </properties>
+  </object>
+  <object gid="22" x="5312" y="480">
+   <properties>
+    <property name="tid" value="24"/>
+   </properties>
+  </object>
+  <object gid="22" x="5536" y="480">
+   <properties>
+    <property name="tid" value="24"/>
+   </properties>
+  </object>
+  <object gid="22" x="5280" y="480">
+   <properties>
+    <property name="tid" value="24"/>
+   </properties>
+  </object>
+  <object gid="21" x="5600" y="416"/>
+  <object gid="21" x="5633" y="416"/>
+  <object gid="21" x="5664" y="416"/>
+  <object gid="22" x="5472" y="480">
+   <properties>
+    <property name="tid" value="24"/>
+   </properties>
+  </object>
+  <object gid="21" x="5857" y="384"/>
+  <object gid="21" x="5888" y="384"/>
+  <object gid="21" x="5824" y="384"/>
+  <object gid="22" x="6656" y="480">
+   <properties>
+    <property name="tid" value="24"/>
+   </properties>
+  </object>
+  <object gid="22" x="6592" y="480">
+   <properties>
+    <property name="tid" value="24"/>
+   </properties>
+  </object>
+  <object gid="22" x="6688" y="480">
+   <properties>
+    <property name="tid" value="24"/>
+   </properties>
+  </object>
+  <object gid="22" x="6944" y="480">
+   <properties>
+    <property name="tid" value="24"/>
+   </properties>
+  </object>
+  <object gid="22" x="6880" y="480">
+   <properties>
+    <property name="tid" value="24"/>
+   </properties>
+  </object>
+  <object gid="22" x="6720" y="480">
+   <properties>
+    <property name="tid" value="24"/>
+   </properties>
+  </object>
+  <object gid="22" x="6912" y="480">
+   <properties>
+    <property name="tid" value="24"/>
+   </properties>
+  </object>
+  <object gid="22" x="6624" y="480">
+   <properties>
+    <property name="tid" value="24"/>
+   </properties>
+  </object>
+  <object gid="22" x="7008" y="608">
+   <properties>
+    <property name="tid" value="24"/>
+   </properties>
+  </object>
+  <object gid="21" x="6976" y="545"/>
+  <object gid="21" x="7272" y="518"/>
+  <object gid="21" x="6912" y="545"/>
+  <object gid="21" x="7377" y="542"/>
+  <object gid="222" x="7680" y="576">
+   <properties>
+    <property name="tid" value="34"/>
+   </properties>
+  </object>
+  <object gid="21" x="7238" y="534"/>
+  <object gid="21" x="7204" y="561"/>
+  <object gid="21" x="6848" y="609"/>
+  <object gid="22" x="6976" y="609">
+   <properties>
+    <property name="tid" value="24"/>
+   </properties>
+  </object>
+  <object gid="21" x="7307" y="512"/>
+  <object gid="21" x="7040" y="545"/>
+  <object gid="21" x="7343" y="522"/>
+  <object gid="21" x="6462" y="431"/>
+  <object gid="22" x="5728" y="416">
+   <properties>
+    <property name="tid" value="24"/>
+   </properties>
+  </object>
+  <object gid="22" x="5760" y="416">
+   <properties>
+    <property name="tid" value="24"/>
+   </properties>
+  </object>
+  <object gid="22" x="5792" y="416">
+   <properties>
+    <property name="tid" value="24"/>
+   </properties>
+  </object>
+  <object gid="21" x="6016" y="352"/>
+  <object gid="22" x="5952" y="416">
+   <properties>
+    <property name="tid" value="24"/>
+   </properties>
+  </object>
+  <object gid="22" x="5984" y="416">
+   <properties>
+    <property name="tid" value="24"/>
+   </properties>
+  </object>
+  <object gid="21" x="6049" y="352"/>
+  <object gid="21" x="6080" y="352"/>
+  <object gid="21" x="6430" y="271"/>
+  <object gid="21" x="6176" y="320"/>
+  <object gid="21" x="6144" y="320"/>
+  <object gid="21" x="6207" y="320"/>
+  <object gid="22" x="6303" y="352">
+   <properties>
+    <property name="tid" value="24"/>
+   </properties>
+  </object>
+  <object gid="22" x="6271" y="352">
+   <properties>
+    <property name="tid" value="24"/>
+   </properties>
+  </object>
+  <object gid="22" x="6335" y="352">
+   <properties>
+    <property name="tid" value="24"/>
+   </properties>
+  </object>
+  <object gid="21" x="8260" y="508"/>
+  <object gid="21" x="8040" y="471"/>
+  <object gid="21" x="8208" y="472"/>
+  <object gid="21" x="8148" y="448"/>
+  <object gid="21" x="8088" y="452"/>
+  <object gid="21" x="7992" y="488"/>
+  <object gid="22" x="9728" y="288">
+   <properties>
+    <property name="tid" value="24"/>
+   </properties>
+  </object>
+  <object gid="22" x="9728" y="256">
+   <properties>
+    <property name="tid" value="24"/>
+   </properties>
+  </object>
+  <object gid="22" x="9728" y="320">
+   <properties>
+    <property name="tid" value="24"/>
+   </properties>
+  </object>
+  <object gid="22" x="9728" y="352">
+   <properties>
+    <property name="tid" value="24"/>
+   </properties>
+  </object>
+  <object gid="22" x="4384" y="640">
+   <properties>
+    <property name="tid" value="24"/>
+   </properties>
+  </object>
+  <object gid="22" x="4192" y="640">
+   <properties>
+    <property name="tid" value="24"/>
+   </properties>
+  </object>
+  <object gid="22" x="4352" y="640">
+   <properties>
+    <property name="tid" value="24"/>
+   </properties>
+  </object>
+  <object gid="21" x="4416" y="512"/>
+  <object gid="22" x="4256" y="640">
+   <properties>
+    <property name="tid" value="24"/>
+   </properties>
+  </object>
+  <object gid="22" x="4320" y="640">
+   <properties>
+    <property name="tid" value="24"/>
+   </properties>
+  </object>
+  <object gid="22" x="4160" y="640">
+   <properties>
+    <property name="tid" value="24"/>
+   </properties>
+  </object>
+  <object gid="21" x="4256" y="512"/>
+  <object gid="21" x="4448" y="544"/>
+  <object gid="22" x="4448" y="640">
+   <properties>
+    <property name="tid" value="24"/>
+   </properties>
+  </object>
+  <object gid="22" x="4416" y="640">
+   <properties>
+    <property name="tid" value="24"/>
+   </properties>
+  </object>
+  <object gid="22" x="4288" y="640">
+   <properties>
+    <property name="tid" value="24"/>
+   </properties>
+  </object>
+  <object gid="22" x="4224" y="640">
+   <properties>
+    <property name="tid" value="24"/>
+   </properties>
+  </object>
+  <object gid="22" x="13088" y="448">
+   <properties>
+    <property name="tid" value="24"/>
+   </properties>
+  </object>
+  <object gid="22" x="13056" y="448">
+   <properties>
+    <property name="tid" value="24"/>
+   </properties>
+  </object>
+  <object gid="22" x="13184" y="448">
+   <properties>
+    <property name="tid" value="24"/>
+   </properties>
+  </object>
+  <object gid="22" x="13120" y="448">
+   <properties>
+    <property name="tid" value="24"/>
+   </properties>
+  </object>
+  <object gid="22" x="13152" y="448">
+   <properties>
+    <property name="tid" value="24"/>
+   </properties>
+  </object>
+  <object gid="22" x="13216" y="448">
+   <properties>
+    <property name="tid" value="24"/>
+   </properties>
+  </object>
+  <object gid="22" x="13984" y="512">
+   <properties>
+    <property name="tid" value="24"/>
+   </properties>
+  </object>
+  <object gid="22" x="13792" y="512">
+   <properties>
+    <property name="tid" value="24"/>
+   </properties>
+  </object>
+  <object gid="22" x="13952" y="512">
+   <properties>
+    <property name="tid" value="24"/>
+   </properties>
+  </object>
+  <object gid="21" x="14016" y="384"/>
+  <object gid="22" x="13856" y="512">
+   <properties>
+    <property name="tid" value="24"/>
+   </properties>
+  </object>
+  <object gid="22" x="13920" y="512">
+   <properties>
+    <property name="tid" value="24"/>
+   </properties>
+  </object>
+  <object gid="22" x="13760" y="512">
+   <properties>
+    <property name="tid" value="24"/>
+   </properties>
+  </object>
+  <object gid="21" x="13856" y="384"/>
+  <object gid="21" x="14048" y="416"/>
+  <object gid="21" x="13810" y="409"/>
+  <object gid="22" x="14048" y="512">
+   <properties>
+    <property name="tid" value="24"/>
+   </properties>
+  </object>
+  <object gid="22" x="14016" y="512">
+   <properties>
+    <property name="tid" value="24"/>
+   </properties>
+  </object>
+  <object gid="22" x="13888" y="512">
+   <properties>
+    <property name="tid" value="24"/>
+   </properties>
+  </object>
+  <object gid="22" x="13824" y="512">
+   <properties>
+    <property name="tid" value="24"/>
+   </properties>
+  </object>
+  <object gid="22" x="5920" y="416">
+   <properties>
+    <property name="tid" value="24"/>
+   </properties>
+  </object>
+  <object gid="21" x="7552" y="320"/>
+  <object gid="21" x="7392" y="256"/>
+  <object gid="21" x="7296" y="192"/>
+  <object gid="21" x="7552" y="576"/>
+  <object gid="21" x="7616" y="576"/>
+  <object gid="21" x="5056" y="448"/>
+  <object gid="21" x="5024" y="416"/>
+  <object gid="21" x="5088" y="416"/>
+  <object gid="22" x="7008" y="223">
+   <properties>
+    <property name="tid" value="24"/>
+   </properties>
+  </object>
+  <object gid="22" x="6976" y="224">
+   <properties>
+    <property name="tid" value="24"/>
+   </properties>
+  </object>
+  <object gid="22" x="6944" y="224">
+   <properties>
+    <property name="tid" value="24"/>
+   </properties>
+  </object>
+  <object gid="21" x="10898" y="505"/>
+  <object gid="21" x="11136" y="512"/>
+  <object gid="21" x="11104" y="480"/>
+  <object gid="21" x="10944" y="480"/>
+  <object gid="21" x="10720" y="576"/>
+  <object gid="21" x="10176" y="576"/>
+  <object gid="21" x="4210" y="537"/>
+  <object gid="21" x="4801" y="438"/>
+  <object gid="21" x="9056" y="416"/>
+  <object gid="21" x="8830" y="431"/>
+  <object gid="21" x="5416" y="460"/>
+  <object gid="21" x="5363" y="399"/>
+  <object gid="21" x="9696" y="384"/>
+  <object gid="21" x="9632" y="352"/>
+  <object gid="21" x="6773" y="477"/>
+  <object gid="21" x="6720" y="416"/>
+ </objectgroup>
+ <objectgroup name="Zombie" width="455" height="20">
+  <object gid="40" x="12736" y="416">
+   <properties>
+    <property name="tid" value="3"/>
+   </properties>
+  </object>
+  <object gid="38" x="13536" y="512">
+   <properties>
+    <property name="tid" value="1"/>
+   </properties>
+  </object>
+  <object gid="37" x="9920" y="512">
+   <properties>
+    <property name="tid" value="0"/>
+   </properties>
+  </object>
+  <object gid="40" x="2080" y="416">
+   <properties>
+    <property name="tid" value="3"/>
+   </properties>
+  </object>
+  <object gid="39" x="6208" y="544">
+   <properties>
+    <property name="tid" value="2"/>
+   </properties>
+  </object>
+  <object gid="39" x="6880" y="224">
+   <properties>
+    <property name="tid" value="2"/>
+   </properties>
+  </object>
+ </objectgroup>
+ <objectgroup name="Shadow" width="455" height="20">
+  <object gid="14" x="5600" y="606"/>
+  <object gid="7" x="4480" y="608"/>
+  <object gid="9" x="480" y="256"/>
+  <object gid="9" x="2688" y="576"/>
+  <object gid="9" x="1398" y="416"/>
+  <object gid="9" x="10304" y="544"/>
+  <object gid="7" x="11232" y="576"/>
+  <object gid="7" x="3552" y="608"/>
+  <object gid="8" x="1728" y="480"/>
+  <object gid="14" x="3040" y="608"/>
+  <object gid="7" x="6336" y="512"/>
+  <object gid="6" x="7488" y="576"/>
+  <object gid="7" x="6303" y="320"/>
+  <object gid="9" x="7968" y="512"/>
+  <object gid="9" x="4160" y="544"/>
+  <object gid="9" x="13760" y="416"/>
+  <object gid="6" x="3872" y="512"/>
+  <object gid="9" x="10848" y="512"/>
+  <object gid="7" x="8736" y="512"/>
+  <object gid="9" x="13056" y="384"/>
+  <object gid="9" x="9408" y="320"/>
+  <object gid="9" x="6656" y="416"/>
+ </objectgroup>
+</map>

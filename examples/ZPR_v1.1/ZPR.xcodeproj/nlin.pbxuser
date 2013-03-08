@@ -1,0 +1,190 @@
+// !$*UTF8*$!
+{
+	1D6058900D05DD3D006BFB54 /* ZPR */ = {
+		activeExec = 0;
+		executables = (
+			CA5A5378145E4C7D003BFABD /* ZPR */,
+		);
+	};
+	29B97313FDCFA39411CA2CEA /* Project object */ = {
+		activeBuildConfigurationName = Debug;
+		activeExecutable = CA5A5378145E4C7D003BFABD /* ZPR */;
+		activeTarget = 1D6058900D05DD3D006BFB54 /* ZPR */;
+		codeSenseManager = CA5A5793145E4C8B003BFABD /* Code sense */;
+		executables = (
+			CA5A5378145E4C7D003BFABD /* ZPR */,
+			CA5A5379145E4C7D003BFABD /* ZPR-iPad */,
+			CA6F79BC14749C1100663A70 /* ZPR Free */,
+			CA6F79BD14749C1100663A70 /* ZPR-iPad Free */,
+		);
+		perUserDictionary = {
+			PBXConfiguration.PBXFileTableDataSource3.PBXFileTableDataSource = {
+				PBXFileTableDataSourceColumnSortingDirectionKey = "-1";
+				PBXFileTableDataSourceColumnSortingKey = PBXFileDataSource_Filename_ColumnID;
+				PBXFileTableDataSourceColumnWidthsKey = (
+					20,
+					341,
+					20,
+					48,
+					43,
+					43,
+					20,
+				);
+				PBXFileTableDataSourceColumnsKey = (
+					PBXFileDataSource_FiletypeID,
+					PBXFileDataSource_Filename_ColumnID,
+					PBXFileDataSource_Built_ColumnID,
+					PBXFileDataSource_ObjectSize_ColumnID,
+					PBXFileDataSource_Errors_ColumnID,
+					PBXFileDataSource_Warnings_ColumnID,
+					PBXFileDataSource_Target_ColumnID,
+				);
+			};
+			PBXPerProjectTemplateStateSaveDate = 343186450;
+			PBXWorkspaceStateSaveDate = 343186450;
+		};
+		sourceControlManager = CA5A5792145E4C8B003BFABD /* Source Control */;
+		userBuildSettings = {
+		};
+	};
+	654D5F911442D537008D09E7 /* ZPR-iPad */ = {
+		activeExec = 0;
+		executables = (
+			CA5A5379145E4C7D003BFABD /* ZPR-iPad */,
+		);
+	};
+	CA5A5378145E4C7D003BFABD /* ZPR */ = {
+		isa = PBXExecutable;
+		activeArgIndices = (
+		);
+		argumentStrings = (
+		);
+		autoAttachOnCrash = 1;
+		breakpointsEnabled = 0;
+		configStateDict = {
+		};
+		customDataFormattersEnabled = 1;
+		dataTipCustomDataFormattersEnabled = 1;
+		dataTipShowTypeColumn = 1;
+		dataTipSortType = 0;
+		debuggerPlugin = GDBDebugging;
+		disassemblyDisplayState = 0;
+		enableDebugStr = 1;
+		environmentEntries = (
+		);
+		executableSystemSymbolLevel = 0;
+		executableUserSymbolLevel = 0;
+		libgmallocEnabled = 0;
+		name = ZPR;
+		showTypeColumn = 0;
+		sourceDirectories = (
+		);
+	};
+	CA5A5379145E4C7D003BFABD /* ZPR-iPad */ = {
+		isa = PBXExecutable;
+		activeArgIndices = (
+		);
+		argumentStrings = (
+		);
+		autoAttachOnCrash = 1;
+		breakpointsEnabled = 0;
+		configStateDict = {
+		};
+		customDataFormattersEnabled = 1;
+		dataTipCustomDataFormattersEnabled = 1;
+		dataTipShowTypeColumn = 1;
+		dataTipSortType = 0;
+		debuggerPlugin = GDBDebugging;
+		disassemblyDisplayState = 0;
+		enableDebugStr = 1;
+		environmentEntries = (
+		);
+		executableSystemSymbolLevel = 0;
+		executableUserSymbolLevel = 0;
+		libgmallocEnabled = 0;
+		name = "ZPR-iPad";
+		showTypeColumn = 0;
+		sourceDirectories = (
+		);
+	};
+	CA5A5792145E4C8B003BFABD /* Source Control */ = {
+		isa = PBXSourceControlManager;
+		fallbackIsa = XCSourceControlManager;
+		isSCMEnabled = 0;
+		scmConfiguration = {
+			repositoryNamesForRoots = {
+				"" = "";
+			};
+		};
+	};
+	CA5A5793145E4C8B003BFABD /* Code sense */ = {
+		isa = PBXCodeSenseManager;
+		indexTemplatePath = "";
+	};
+	CA5BCA60147347C30020C0DF /* ZPR Free */ = {
+		activeExec = 0;
+		executables = (
+			CA6F79BC14749C1100663A70 /* ZPR Free */,
+		);
+	};
+	CA5BCC64147347D90020C0DF /* ZPR-iPad Free */ = {
+		activeExec = 0;
+		executables = (
+			CA6F79BD14749C1100663A70 /* ZPR-iPad Free */,
+		);
+	};
+	CA6F79BC14749C1100663A70 /* ZPR Free */ = {
+		isa = PBXExecutable;
+		activeArgIndices = (
+		);
+		argumentStrings = (
+		);
+		autoAttachOnCrash = 1;
+		breakpointsEnabled = 0;
+		configStateDict = {
+		};
+		customDataFormattersEnabled = 1;
+		dataTipCustomDataFormattersEnabled = 1;
+		dataTipShowTypeColumn = 1;
+		dataTipSortType = 0;
+		debuggerPlugin = GDBDebugging;
+		disassemblyDisplayState = 0;
+		enableDebugStr = 1;
+		environmentEntries = (
+		);
+		executableSystemSymbolLevel = 0;
+		executableUserSymbolLevel = 0;
+		libgmallocEnabled = 0;
+		name = "ZPR Free";
+		showTypeColumn = 0;
+		sourceDirectories = (
+		);
+	};
+	CA6F79BD14749C1100663A70 /* ZPR-iPad Free */ = {
+		isa = PBXExecutable;
+		activeArgIndices = (
+		);
+		argumentStrings = (
+		);
+		autoAttachOnCrash = 1;
+		breakpointsEnabled = 0;
+		configStateDict = {
+		};
+		customDataFormattersEnabled = 1;
+		dataTipCustomDataFormattersEnabled = 1;
+		dataTipShowTypeColumn = 1;
+		dataTipSortType = 0;
+		debuggerPlugin = GDBDebugging;
+		disassemblyDisplayState = 0;
+		enableDebugStr = 1;
+		environmentEntries = (
+		);
+		executableSystemSymbolLevel = 0;
+		executableUserSymbolLevel = 0;
+		libgmallocEnabled = 0;
+		name = "ZPR-iPad Free";
+		showTypeColumn = 0;
+		sourceDirectories = (
+		);
+	};
+}

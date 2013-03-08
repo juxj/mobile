@@ -1,0 +1,11 @@
+/* 
+  Localizable.strings
+  A02
+
+  Created by Tony Ju on 2/26/13.
+  Copyright (c) 2013 Tony Ju. All rights reserved.
+*/
+
+"NETWORK_CONNECTION_NO" = "No Connection";
+"NETWORK_CONNECTION_WIFI" = "Connected by WIFI";
+"NETWORK_CONNECTION_3G" = "Connectioned by 3G";

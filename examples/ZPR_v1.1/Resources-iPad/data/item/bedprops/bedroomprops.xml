@@ -1,0 +1,18 @@
+<?xml version="1.0"?>
+<animation name="bedroomprops.xml" source="bedroomprops.png" type="images">
+    <img regx="0" regy="0" name="houseprops" savedname="bedroomprops.png" w="1024" h="960" />
+    <framelist>
+        <frame regx="0" regy="0" name="bed0" w="189" h="261" x="835" y="298" />
+        <frame regx="0" regy="0" name="bed1" w="253" h="405" x="770" y="561" />
+        <frame regx="0" regy="0" name="bed2" w="209" h="298" x="0" y="3" />
+        <frame regx="0" regy="0" name="bed3" w="222" h="145" x="710" y="6" />
+        <frame regx="0" regy="0" name="bed4" w="737" h="358" x="1" y="597" />
+        <frame regx="0" regy="0" name="bed5" w="247" h="238" x="218" y="81" />
+        <frame regx="0" regy="0" name="bed6" w="127" h="60" x="691" y="360" />
+        <frame regx="0" regy="0" name="bed7" w="430" h="246" x="0" y="318" />
+        <frame regx="0" regy="0" name="bed8" w="244" h="246" x="428" y="316" />
+        <frame regx="0" regy="0" name="bed9" w="235" h="313" x="457" y="57" />
+        <frame regx="0" regy="0" name="bed10" w="145" h="88" x="689" y="472" />
+        <frame regx="0" regy="0" name="bed11" w="174" h="106" x="758" y="172" />
+        </framelist>
+</animation>

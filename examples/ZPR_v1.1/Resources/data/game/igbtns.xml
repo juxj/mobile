@@ -1,0 +1,10 @@
+<?xml version="1.0"?>
+<animation name="igbtns.xml" source="igbtns.png" type="images">
+  <img regx="0" regy="0" name="igbtns" savedname="igbtns.png" w="128" h="128" />
+  <framelist>
+    <frame name="igb_rmn" x="0"  y="0"  w="64" h="64" />
+    <frame name="igb_rmd" x="64" y="0"  w="64" h="64" />
+    <frame name="igb_trn" x="0"  y="64" w="64" h="64" />
+    <frame name="igb_trd" x="64" y="64" w="64" h="64" />
+  </framelist>
+</animation>

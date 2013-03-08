@@ -1,0 +1,77 @@
+K 25
+svn:wc:ra_dav:version-url
+V 52
+/svn/iphone/!svn/ver/4613/trunk/ZPR_v1.1/Sources/IAP
+END
+NSString+MD5Addition.h
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svn/iphone/!svn/ver/3963/trunk/ZPR_v1.1/Sources/IAP/NSString+MD5Addition.h
+END
+ZPR_IAP.h
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svn/iphone/!svn/ver/4259/trunk/ZPR_v1.1/Sources/IAP/ZPR_IAP.h
+END
+zprUIButton.h
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/iphone/!svn/ver/4212/trunk/ZPR_v1.1/Sources/IAP/zprUIButton.h
+END
+GameStore.h
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/iphone/!svn/ver/4613/trunk/ZPR_v1.1/Sources/IAP/GameStore.h
+END
+PurchaseCounts.h
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/iphone/!svn/ver/4393/trunk/ZPR_v1.1/Sources/IAP/PurchaseCounts.h
+END
+UIDevice+IdentifierAddition.h
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svn/iphone/!svn/ver/3963/trunk/ZPR_v1.1/Sources/IAP/UIDevice+IdentifierAddition.h
+END
+GameStore.mm
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/iphone/!svn/ver/4613/trunk/ZPR_v1.1/Sources/IAP/GameStore.mm
+END
+NSString+MD5Addition.m
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svn/iphone/!svn/ver/3963/trunk/ZPR_v1.1/Sources/IAP/NSString+MD5Addition.m
+END
+ZPR_IAP.m
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svn/iphone/!svn/ver/4544/trunk/ZPR_v1.1/Sources/IAP/ZPR_IAP.m
+END
+PurchaseCounts.m
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/iphone/!svn/ver/4393/trunk/ZPR_v1.1/Sources/IAP/PurchaseCounts.m
+END
+UIDevice+IdentifierAddition.m
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svn/iphone/!svn/ver/3963/trunk/ZPR_v1.1/Sources/IAP/UIDevice+IdentifierAddition.m
+END
+zprUIButton.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/iphone/!svn/ver/4596/trunk/ZPR_v1.1/Sources/IAP/zprUIButton.cpp
+END

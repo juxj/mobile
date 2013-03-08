@@ -1,0 +1,8 @@
+<?xml version="1.0"?>
+<animation name="i301.xml" source="i301.png" type="frame-by-frame_animation">
+  <img name="i301" savedname="i301.png" fx="0" fy="0" fw="320" fh="160" row="1" cnt="1" duration="33">
+    <framelist>
+      <frameset fsid="0" fs="0" fc="1" type="1" />
+    </framelist>
+  </img>
+</animation>

@@ -1,0 +1,20 @@
+<?xml version="1.0"?>
+<animation name="news.xml" source="news.png" type="images">
+	<img regx="0" regy="0" name="news" savedname="news.png" w="256" h="128" />
+	<framelist>
+		<frame regx="0" regy="0" name="news0" w="16"  h="48" x="0"   y="0"  />
+		<frame regx="0" regy="0" name="news1" w="4"   h="48" x="16"  y="0"  />
+		<frame regx="0" regy="0" name="news2" w="16"  h="48" x="20"  y="0"  />
+		<frame regx="0" regy="0" name="news3" w="16"  h="4"  x="0"   y="48" />
+		<frame regx="0" regy="0" name="news4" w="4"   h="4"  x="16"  y="48" />
+		<frame regx="0" regy="0" name="news5" w="16"  h="4"  x="20"  y="48" />
+		<frame regx="0" regy="0" name="news6" w="16"  h="32" x="0"   y="52" />
+		<frame regx="0" regy="0" name="news7" w="4"   h="32" x="16"  y="52" />
+		<frame regx="0" regy="0" name="news8" w="16"  h="32" x="20"  y="52" />
+		<frame regx="0" regy="0" name="news9" w="108" h="88" x="38"  y="0"  />
+		<frame regx="0" regy="0" name="news10" w="80"  h="78" x="148" y="0"  />
+		<frame regx="0" regy="0" name="news11" w="154" h="34" x="0"   y="90" />
+		<frame regx="0" regy="0" name="news12" w="32"  h="32" x="156" y="90" />
+		<frame regx="0" regy="0" name="news13" w="32"  h="32" x="190" y="90" />
+	</framelist>
+</animation>

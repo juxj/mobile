@@ -1,0 +1,47 @@
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/svn/iphone/!svn/ver/4655/trunk/ZPR_v1.1/Sources/Game
+END
+imgResData.h
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/iphone/!svn/ver/4171/trunk/ZPR_v1.1/Sources/Game/imgResData.h
+END
+GameData.h
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/iphone/!svn/ver/4344/trunk/ZPR_v1.1/Sources/Game/GameData.h
+END
+GameRes.h
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svn/iphone/!svn/ver/4583/trunk/ZPR_v1.1/Sources/Game/GameRes.h
+END
+GameData.mm
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/iphone/!svn/ver/4613/trunk/ZPR_v1.1/Sources/Game/GameData.mm
+END
+GameRes.mm
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/iphone/!svn/ver/4602/trunk/ZPR_v1.1/Sources/Game/GameRes.mm
+END
+GameState.h
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/iphone/!svn/ver/4583/trunk/ZPR_v1.1/Sources/Game/GameState.h
+END
+GameState.mm
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/iphone/!svn/ver/4612/trunk/ZPR_v1.1/Sources/Game/GameState.mm
+END

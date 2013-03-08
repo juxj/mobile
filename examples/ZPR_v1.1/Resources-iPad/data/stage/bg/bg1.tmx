@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<map version="1.0" orientation="orthogonal" width="1" height="1" tilewidth="613" tileheight="320">
+ <tileset firstgid="1" name="bg10" tilewidth="512" tileheight="320">
+  <image source="bg10.png" width="512" height="320"/>
+ </tileset>
+ <tileset firstgid="2" name="bg11" tilewidth="613" tileheight="319">
+  <image source="bg11.png" width="613" height="319"/>
+ </tileset>
+ <tileset firstgid="3" name="bg12" tilewidth="610" tileheight="268">
+  <image source="bg12.png" width="610" height="268"/>
+ </tileset>
+ <objectgroup name="Background" width="1" height="1">
+  <object gid="1" x="0" y="320"/>
+ </objectgroup>
+ <objectgroup name="Midground" width="1" height="1">
+  <object gid="2" x="0" y="320"/>
+ </objectgroup>
+ <objectgroup name="Foreground" width="1" height="1">
+  <object gid="3" x="0" y="320"/>
+ </objectgroup>
+</map>

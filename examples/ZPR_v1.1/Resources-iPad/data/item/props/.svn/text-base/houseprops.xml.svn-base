@@ -1,0 +1,33 @@
+<?xml version="1.0"?>
+<animation name="houseprops.xml" source="houseprops.png" type="images">
+    <img regx="0" regy="0" name="houseprops" savedname="houseprops.png" w="950" h="420" />
+    <framelist>
+        <frame regx="0" regy="0" name="m0" w="72" h="70" x="0" y="296" />
+        <frame regx="0" regy="0" name="m1" w="100" h="36" x="328" y="346" />
+        <frame regx="0" regy="0" name="m2" w="71" h="53" x="2" y="367" />
+        <frame regx="0" regy="0" name="m3" w="468" h="135" x="434" y="285" />
+        <frame regx="0" regy="0" name="m4" w="98" h="75" x="676" y="190" />
+        <frame regx="0" regy="0" name="m5" w="23" h="55" x="491" y="206" />
+        <frame regx="0" regy="0" name="m6" w="62" h="25" x="273" y="64" />
+        <frame regx="0" regy="0" name="m7" w="82" h="51" x="679" y="108" />
+        <frame regx="0" regy="0" name="m8" w="55" h="113" x="801" y="13" />
+        <frame regx="0" regy="0" name="m9" w="202" h="172" x="17" y="121" />
+        <frame regx="0" regy="0" name="m10" w="86" h="58" x="674" y="14" />
+        <frame regx="0" regy="0" name="m11" w="109" h="66" x="547" y="195" />
+        <frame regx="0" regy="0" name="m12" w="72" h="93" x="785" y="167" />
+        <frame regx="0" regy="0" name="m13" w="47" h="33" x="281" y="14" />
+        <frame regx="0" regy="0" name="m14" w="145" h="121" x="340" y="4" />
+        <frame regx="0" regy="0" name="m15" w="102" h="95" x="165" y="8" />
+        <frame regx="0" regy="0" name="m16" w="139" h="140" x="514" y="20" />
+        <frame regx="0" regy="0" name="m17" w="77" h="79" x="151" y="303" />
+        <frame regx="0" regy="0" name="m18" w="74" h="77" x="244" y="334" />
+        <frame regx="0" regy="0" name="m19" w="47" h="146" x="869" y="3" />
+        <frame regx="0" regy="0" name="m20" w="39" h="47" x="86" y="296" />
+        <frame regx="0" regy="0" name="m21" w="125" h="100" x="359" y="163" />
+        <frame regx="0" regy="0" name="m22" w="134" h="71" x="18" y="14" />
+        <frame regx="0" regy="0" name="m23" w="120" h="145" x="232" y="161" />
+        <frame regx="0" regy="0" name="backbrand1" w="83" h="76" x="864" y="151" />
+        <frame regx="0" regy="0" name="backbrand2" w="76" h="53" x="875" y="232" />
+        <frame regx="0" regy="0" name="backbrand3" w="110" h="87" x="0" y="426" />
+    </framelist>
+</animation>

@@ -1,0 +1,199 @@
+//
+// Prefix header for all source files of the 'ZPR' target in the 'ZPR' project
+//
+
+#import <Availability.h>
+
+#ifndef __IPHONE_3_0
+#warning "This project uses features only available in iPhone SDK 3.0 and later."
+#endif
+
+#ifdef __OBJC__
+#import <Foundation/Foundation.h>
+#import <UIKit/UIKit.h>
+#endif
+
+
+#define __STORE_LEVEL_PACK__
+//#define __DOWNLOAD_RES__
+#define DOWNLOAD_FILE_URL       @"http://breakassets.break.com/breakassets/zpr/"
+
+#if V_FREE
+#define DOWNLOAD_FILE_VERSION   @"version_free.xml"
+#else
+#define DOWNLOAD_FILE_VERSION   @"version.xml"
+#endif
+
+
+// Only for testing the game
+//#define CHEAT_UNLOCK_ALL_LEVELS
+//#define CHEAT_UNLIMITED_ITMES
+//#define CHEAT_BUYLOCK
+// Only for testing the game
+
+
+#ifdef VER_TEST
+#define CHEAT_UNLIMITED_ITMES   // Free items
+#define CHEAT_BUYLOCK           // Free levels
+#define CHEAT_UNLOCK_ALL_LEVELS // All levels
+#endif
+
+
+
+//#define V_1_0
+#define V_1_1_0
+
+//#define VERSION_IPAD     1
+//#define V_FREE
+
+
+//#define SET_CHKPT
+
+
+//#define __GAME_STATISTICS__
+
+#ifdef V_FREE
+	#define _AD_ADCOLONY_EMBEDDED_
+#endif
+#ifdef _AD_ADCOLONY_EMBEDDED_
+#define ADCOLONY_APP_ID     @"app4ea87864e0095"//@"app4e541454aa92e"//
+
+//#define ADCOLONY_ZONE_ID1   @"z4e54154dd2d35"
+//#define ADCOLONY_ZONE_ID2   @"z4e54154dd2d35"
+//#define ADCOLONY_ZONE_ID3   @"z4e54154dd2d35"
+//#define ADCOLONY_ZONE_ID4   @"z4e54154dd2d35"
+//#define ADCOLONY_ZONE_ID5   @"z4e54154dd2d35"
+//#define ADCOLONY_ZONE_ID6   @"z4e54154dd2d35"
+//#define ADCOLONY_ZONE_ID7   @"z4e54154dd2d35"
+//#define ADCOLONY_ZONE_ID8   @"z4e54154dd2d35"
+
+#define ADCOLONY_ZONE_ID1   @"z4ea88043adbf6" // Break Ad
+#define ADCOLONY_ZONE_ID2   @"z4eaf5ab4f075a" // Break Ad
+#define ADCOLONY_ZONE_ID3   @"z4eb8ca8a602ec"
+#define ADCOLONY_ZONE_ID4   @"z4eb8cadc6388f"
+#define ADCOLONY_ZONE_ID5   @"z4eb8cb8e923a9"
+#define ADCOLONY_ZONE_ID6   @"z4eb8cbc0c1888"
+#define ADCOLONY_ZONE_ID7   @"z4eb8cc1a9dd2d"
+#define ADCOLONY_ZONE_ID8   @"z4eb8cc550846e"
+
+#endif
+
+#define __IN_APP_PURCHASE__
+#ifdef VERSION_IPAD
+    #ifdef V_FREE
+        #define IAP_PRODUCT_ID_COMIC        @"com.breakmedia.zprfreehd_level_pack"
+        #define IAP_PRODUCT_ID_SNEAKERS     @"com.breakmedia.zprfreehd_runner_mode"
+        #define IAP_PRODUCT_ID_TRAMPOLINE   @"com.breakmedia.zprfreehd_trampoline"
+        #define IAP_PRODUCT_ID_COMBOPACK1   @"com.breakmedia.zprfreehd_combo_pack1"
+    #else
+        #define IAP_PRODUCT_ID_COMIC        @"com.breakmedia.zprhd_level_pack"
+        #define IAP_PRODUCT_ID_SNEAKERS     @"com.breakmedia.zprhd_runner_mode"
+        #define IAP_PRODUCT_ID_TRAMPOLINE   @"com.breakmedia.zprhd_trampoline"
+        #define IAP_PRODUCT_ID_COMBOPACK1   @"com.breakmedia.zprhd_combo_pack"  // missing 1
+    #endif
+#else
+    #ifdef V_FREE
+        #define IAP_PRODUCT_ID_COMIC        @"com.breakmedia.zprlt_level_pack"
+        #define IAP_PRODUCT_ID_SNEAKERS     @"com.breakmedia.zprlt_runner_mode"
+        #define IAP_PRODUCT_ID_TRAMPOLINE   @"com.breakmedia.zprlt_trampoline"
+        #define IAP_PRODUCT_ID_COMBOPACK1   @"com.breakmedia.zprlt_combo_pack1"
+    #else
+        #define IAP_PRODUCT_ID_COMIC        @"com.breakmedia.zpr_level_pack"
+        #define IAP_PRODUCT_ID_SNEAKERS     @"com.breakmedia.zpr_runner_mode"
+        #define IAP_PRODUCT_ID_TRAMPOLINE   @"com.breakmedia.zpr_trampoline"
+        #define IAP_PRODUCT_ID_COMBOPACK1   @"com.breakmedia.zpr_combo_pack1"
+    #endif
+#endif
+
+
+#define FACEBOOK_TWITTER
+#define __PROMOTE_ADS__
+
+//the full screen  
+#ifdef  VERSION_IPAD
+   
+    #define IMG_RES_SCALE	2.0f
+ //house
+    #define IMG_BEDROOM_SCALE	2.0f
+    #define IMG_BEDROOM_XOFFSET 0.0f
+    #define ROOM_SCALE  1.0f
+    #define IPAD_PROPS_X   2.4/2 
+    #define IMG_ROOM_SCALE      2.14f//1.0f
+    #define ROOM_INFO_SCALE   1.3
+
+    #define IMG_TITLE_ICON_X    (float)(1024.0f/480.0f)
+
+    #define IPAD_TITLE_IMG   1.0f
+    #define IPAD_24   2.400/2.0
+ 
+	#define SCENE_OFFSET	32.0f
+	#define IPAD_X   2.1333/2.0
+	#define IPAD_Y   40
+    #define IPAD_ONE_Y   40/1.5
+    #define IPAD_TWO_Y   40/2
+    #define IPAD_THREE_Y   40/2.5
+    #define IPAD_FOUR_Y   40/3
+
+	#define GLOBAL_CANVAS_SCALE	2.0f
+	#define GLOBAL_CANVAS_PATCH	(2.13f / GLOBAL_CANVAS_SCALE)
+
+    #define GAMEOVER_BG_X	22.0f
+    #define GAMEOVER_STR_X	15.0f
+	#define GAMEOVER_C_Y	60.0f
+
+#else
+
+    #define IMG_RES_SCALE	1.0f
+   //house
+    #define IMG_BEDROOM_SCALE	2.4f
+    #define IMG_BEDROOM_XOFFSET 26.5f
+    #define ROOM_SCALE  0.83f
+    #define ROOM_INFO_SCALE   0.65
+    #define IPAD_PROPS_X   1.0f
+    #define IPAD_PROPS_X   1.0f
+
+    #define IPAD_TITLE_IMG   2.4f
+    #define IPAD_24   1
+
+    #define IMG_TITLE_ICON_X    1.0f
+    #define IMG_ROOM_SCALE      1.0f
+
+	#define IPAD_X   1 
+	#define IPAD_Y   0
+	#define IPAD_ONE_Y   0
+	#define IPAD_TWO_Y   0
+	#define IPAD_THREE_Y   0
+	#define IPAD_FOUR_Y   0
+
+	#define SCENE_OFFSET	0.0f
+//	#define IPAD_STORY_X   1.0f
+//	#define IPAD_STORY_Y    0.0f
+	#define GLOBAL_CANVAS_SCALE	1.0f
+	#define GLOBAL_CANVAS_PATCH	1.0f
+
+    #define GAMEOVER_BG_X	0.0f
+    #define GAMEOVER_STR_X	0.0f
+	#define GAMEOVER_C_Y	0.0f
+
+#endif
+
+
+// OGLES settings
+#define OGLES_1_1_ONLY
+
+#define GAME_FPS	30	//60
+//#define ENABLE_MOVIE
+
+//#define DBG_MEM_MONITOR
+
+#define ENABLE_CHECKPOINT
+
+#define SOUND_BGM
+#define SOUND_SE
+
+#define ENABLE_OFGAMECENTER	// Use the Game Center functions which has been embeded in the OF
+
+#define OF_EMBEDED
+#define DEBUG_MY_OF
+
+//#import "OpenFeint/OpenFeintPrefix.pch"	// for 2.10.1

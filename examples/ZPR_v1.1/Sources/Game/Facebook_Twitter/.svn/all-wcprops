@@ -1,0 +1,107 @@
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/iphone/!svn/ver/4521/trunk/ZPR_v1.1/Sources/Game/Facebook_Twitter
+END
+SBJSON.h
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svn/iphone/!svn/ver/3941/trunk/ZPR_v1.1/Sources/Game/Facebook_Twitter/SBJSON.h
+END
+FBRequest.h
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svn/iphone/!svn/ver/3941/trunk/ZPR_v1.1/Sources/Game/Facebook_Twitter/FBRequest.h
+END
+FBLoginDialog.h
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svn/iphone/!svn/ver/3941/trunk/ZPR_v1.1/Sources/Game/Facebook_Twitter/FBLoginDialog.h
+END
+NSString+SBJSON.h
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svn/iphone/!svn/ver/3941/trunk/ZPR_v1.1/Sources/Game/Facebook_Twitter/NSString+SBJSON.h
+END
+NSObject+SBJSON.h
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svn/iphone/!svn/ver/3941/trunk/ZPR_v1.1/Sources/Game/Facebook_Twitter/NSObject+SBJSON.h
+END
+FBConnect.h
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svn/iphone/!svn/ver/3960/trunk/ZPR_v1.1/Sources/Game/Facebook_Twitter/FBConnect.h
+END
+libfacebook_ios_sdk.a
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svn/iphone/!svn/ver/3941/trunk/ZPR_v1.1/Sources/Game/Facebook_Twitter/libfacebook_ios_sdk.a
+END
+FBRequest.m
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svn/iphone/!svn/ver/3954/trunk/ZPR_v1.1/Sources/Game/Facebook_Twitter/FBRequest.m
+END
+FBLoginDialog.m
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svn/iphone/!svn/ver/3954/trunk/ZPR_v1.1/Sources/Game/Facebook_Twitter/FBLoginDialog.m
+END
+FBDialog.h
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svn/iphone/!svn/ver/4410/trunk/ZPR_v1.1/Sources/Game/Facebook_Twitter/FBDialog.h
+END
+JSON.h
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/svn/iphone/!svn/ver/3941/trunk/ZPR_v1.1/Sources/Game/Facebook_Twitter/JSON.h
+END
+Facebook.h
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svn/iphone/!svn/ver/3986/trunk/ZPR_v1.1/Sources/Game/Facebook_Twitter/Facebook.h
+END
+SBJsonParser.h
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svn/iphone/!svn/ver/3941/trunk/ZPR_v1.1/Sources/Game/Facebook_Twitter/SBJsonParser.h
+END
+FBDialog.m
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svn/iphone/!svn/ver/4521/trunk/ZPR_v1.1/Sources/Game/Facebook_Twitter/FBDialog.m
+END
+Facebook.m
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svn/iphone/!svn/ver/4170/trunk/ZPR_v1.1/Sources/Game/Facebook_Twitter/Facebook.m
+END
+SBJsonBase.h
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svn/iphone/!svn/ver/3941/trunk/ZPR_v1.1/Sources/Game/Facebook_Twitter/SBJsonBase.h
+END
+SBJsonWriter.h
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svn/iphone/!svn/ver/3941/trunk/ZPR_v1.1/Sources/Game/Facebook_Twitter/SBJsonWriter.h
+END

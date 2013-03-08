@@ -1,0 +1,11 @@
+/* 
+  Localizable.strings
+  A01
+
+  Created by Tony Ju on 2/25/13.
+  Copyright (c) 2013 Tony Ju. All rights reserved.
+*/
+
+"V01_BTN_SIMPLE_CHINESE" = "简体中文";
+"V01_BTN_English" = "英文";
+"V01_TXT_VIEW" = "这里显示中文";

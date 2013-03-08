@@ -1,0 +1,8 @@
+<?xml version="1.0"?>
+<animation name="getitem.xml" source="getitem.png" type="frame-by-frame_animation">
+  <img name="getitem" savedname="getitem.png" fx="0" fy="0" fw="76" fh="43" row="3" cnt="12">
+    <framelist>
+      <frameset fsid="0" name="gi_a0_" fs="0" fc="12" type="1" />
+    </framelist>
+  </img>
+</animation>

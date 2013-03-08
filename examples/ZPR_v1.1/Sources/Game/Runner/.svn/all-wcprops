@@ -1,0 +1,53 @@
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svn/iphone/!svn/ver/4519/trunk/ZPR_v1.1/Sources/Game/Runner
+END
+Giant.h
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/iphone/!svn/ver/3818/trunk/ZPR_v1.1/Sources/Game/Runner/Giant.h
+END
+Opponent.h
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/iphone/!svn/ver/3818/trunk/ZPR_v1.1/Sources/Game/Runner/Opponent.h
+END
+untitled.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svn/iphone/!svn/ver/3818/trunk/ZPR_v1.1/Sources/Game/Runner/untitled.cpp
+END
+untitled.h
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/iphone/!svn/ver/3818/trunk/ZPR_v1.1/Sources/Game/Runner/untitled.h
+END
+Runner.h
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/iphone/!svn/ver/4389/trunk/ZPR_v1.1/Sources/Game/Runner/Runner.h
+END
+Runner.mm
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/iphone/!svn/ver/4519/trunk/ZPR_v1.1/Sources/Game/Runner/Runner.mm
+END
+Giant.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/iphone/!svn/ver/3818/trunk/ZPR_v1.1/Sources/Game/Runner/Giant.cpp
+END
+Opponent.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svn/iphone/!svn/ver/3818/trunk/ZPR_v1.1/Sources/Game/Runner/Opponent.cpp
+END

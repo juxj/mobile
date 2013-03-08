@@ -1,0 +1,59 @@
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/iphone/!svn/ver/3818/trunk/ZPR_v1.1/Libraries/NeoLib/include/Sounds
+END
+CMOpenALSound.m
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svn/iphone/!svn/ver/3818/trunk/ZPR_v1.1/Libraries/NeoLib/include/Sounds/CMOpenALSound.m
+END
+DebugOutput.m
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svn/iphone/!svn/ver/3818/trunk/ZPR_v1.1/Libraries/NeoLib/include/Sounds/DebugOutput.m
+END
+AppleOpenALSupport.h
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/svn/iphone/!svn/ver/3818/trunk/ZPR_v1.1/Libraries/NeoLib/include/Sounds/AppleOpenALSupport.h
+END
+CMOpenALSoundManager.h
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/svn/iphone/!svn/ver/3818/trunk/ZPR_v1.1/Libraries/NeoLib/include/Sounds/CMOpenALSoundManager.h
+END
+CMOpenALSound.h
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svn/iphone/!svn/ver/3818/trunk/ZPR_v1.1/Libraries/NeoLib/include/Sounds/CMOpenALSound.h
+END
+CMOpenALSoundManager.m
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/svn/iphone/!svn/ver/3818/trunk/ZPR_v1.1/Libraries/NeoLib/include/Sounds/CMOpenALSoundManager.m
+END
+DebugOutput.h
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svn/iphone/!svn/ver/3818/trunk/ZPR_v1.1/Libraries/NeoLib/include/Sounds/DebugOutput.h
+END
+AppleOpenALSupport.c
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/svn/iphone/!svn/ver/3818/trunk/ZPR_v1.1/Libraries/NeoLib/include/Sounds/AppleOpenALSupport.c
+END
+SynthesizeSingleton.h
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/svn/iphone/!svn/ver/3818/trunk/ZPR_v1.1/Libraries/NeoLib/include/Sounds/SynthesizeSingleton.h
+END

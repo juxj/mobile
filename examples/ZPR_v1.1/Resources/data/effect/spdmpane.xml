@@ -1,0 +1,13 @@
+<?xml version="1.0"?>
+<animation name="spdmpane.xml" source="spdmpane.png" type="frame-by-frame_animation">
+  <img name="spdmpane" savedname="spdmpane.png" fx="0" fy="0" fw="45" fh="32" row="5" cnt="36" duration="66">
+    <framelist>
+      <frameset fsid="0" fs="0" fc="5"  type="1" />
+      <frameset fsid="1" fs="0" fc="12" type="1" />
+      <frameset fsid="2" fs="12" fc="24" type="1" />
+      <frameset fsid="3" fs="3" fc="2" type="0" />
+      <frameset fsid="4" fs="10" fc="2" type="0" />
+      <frameset fsid="5" fs="32" fc="4" type="0" />
+    </framelist>
+  </img>
+</animation>

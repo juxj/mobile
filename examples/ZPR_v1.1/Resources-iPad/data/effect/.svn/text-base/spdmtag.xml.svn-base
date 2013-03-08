@@ -1,0 +1,10 @@
+<?xml version="1.0"?>
+<animation name="spdmtag.xml" source="spdmtag.png" type="images">
+  <img regx="0" regy="0" name="spdmtag" savedname="spdmtag.png" w="64" h="32" />
+  <framelist>
+    <frame name="igspdm_tag"  x="0"  y="0"  w="55" h="30" />
+    <frame name="igspdm_tag1" x="55" y="0"  w="9"  h="8" />
+    <frame name="igspdm_tag2" x="55" y="8"  w="9"  h="8" />
+    <frame name="igspdm_tag3" x="55" y="16" w="9"  h="8" />
+  </framelist>
+</animation>

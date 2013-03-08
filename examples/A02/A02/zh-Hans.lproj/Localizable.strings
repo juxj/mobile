@@ -1,0 +1,12 @@
+/* 
+  Localizable.strings
+  A02
+
+  Created by Tony Ju on 2/26/13.
+  Copyright (c) 2013 Tony Ju. All rights reserved.
+*/
+
+
+"NETWORK_CONNECTION_NO" = "无连接";
+"NETWORK_CONNECTION_WIFI" = "通过WIFI,已连接";
+"NETWORK_CONNECTION_3G" = "通过3G, 已连接";

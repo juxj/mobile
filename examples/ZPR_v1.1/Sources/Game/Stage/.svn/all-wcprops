@@ -1,0 +1,77 @@
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svn/iphone/!svn/ver/4655/trunk/ZPR_v1.1/Sources/Game/Stage
+END
+Background.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svn/iphone/!svn/ver/4534/trunk/ZPR_v1.1/Sources/Game/Stage/Background.cpp
+END
+LevelBlock.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svn/iphone/!svn/ver/4033/trunk/ZPR_v1.1/Sources/Game/Stage/LevelBlock.cpp
+END
+Background.h
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/iphone/!svn/ver/3986/trunk/ZPR_v1.1/Sources/Game/Stage/Background.h
+END
+Level.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/iphone/!svn/ver/4033/trunk/ZPR_v1.1/Sources/Game/Stage/Level.cpp
+END
+LevelBlock.h
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/iphone/!svn/ver/3986/trunk/ZPR_v1.1/Sources/Game/Stage/LevelBlock.h
+END
+ObjLayer.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/iphone/!svn/ver/4655/trunk/ZPR_v1.1/Sources/Game/Stage/ObjLayer.cpp
+END
+ObjRect.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/iphone/!svn/ver/4595/trunk/ZPR_v1.1/Sources/Game/Stage/ObjRect.cpp
+END
+Stage.h
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn/iphone/!svn/ver/4655/trunk/ZPR_v1.1/Sources/Game/Stage/Stage.h
+END
+Stage.mm
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/iphone/!svn/ver/4655/trunk/ZPR_v1.1/Sources/Game/Stage/Stage.mm
+END
+Level.h
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn/iphone/!svn/ver/3986/trunk/ZPR_v1.1/Sources/Game/Stage/Level.h
+END
+ObjLayer.h
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/iphone/!svn/ver/3818/trunk/ZPR_v1.1/Sources/Game/Stage/ObjLayer.h
+END
+ObjRect.h
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/iphone/!svn/ver/3818/trunk/ZPR_v1.1/Sources/Game/Stage/ObjRect.h
+END
